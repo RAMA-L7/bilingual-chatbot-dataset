@@ -62,7 +62,7 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
 ```
 ✅ Best for simple QA or intent classification.
 
-🅱️ Format 2: Multi-turn Chat with Speaker Labels
+🅱️ Format 2: Multi-turn Chat with Speaker Labels (**optional**)
 ```
 {
   "id": "health_001",
@@ -98,6 +98,39 @@ Build bilingual AI assistants capable of handling rural and semi-urban Indian sc
 Promote open-source Telugu NLP with culturally sensitive, realistic data.
 
 Assist researchers, startups, and educators working on inclusive AI systems.
+
+
+✅ Dataset Validation
+To ensure the dataset maintains a consistent and clean structure, we’ve added an automated validation script:
+
+### 📂 Script
+```
+validate_dataset.py
+```
+ 🧪 **What It Checks**
+✅ Valid top-level JSON object
+
+✅ Known schema formats (Format 1 or Format 2)
+
+✅ Required fields like id, language, and conversation
+
+✅ Proper nesting and data types
+
+✅ No missing or malformed fields
+
+🔍 **How to Run**
+```
+python validate_dataset.py
+```
+🖥️ **Sample Output**
+```
+✅ Valid Format 1: data/education/education_1_10.json
+✅ Valid Format 1: data/health/health_11_20.json
+✅ Valid Format 1: data/weather/weather_31_40.json
+```
+Any structural or schema issues will be flagged clearly so they can be fixed before pushing to the repository.
+
+
 
 🔗 GitHub
 📁 Repo: bilingual-chatbot-dataset
