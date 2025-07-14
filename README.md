@@ -62,7 +62,7 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
 ```
 ✅ Best for simple QA or intent classification.
 
-🅱️ Format 2: Multi-turn Chat with Speaker Labels (**optional**)
+### 🅱️ Format 2: Multi-turn Chat with Speaker Labels (**optional**)
 ```
 {
   "id": "health_001",
@@ -77,7 +77,8 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
 ```
 ✅ Best for multi-turn dialogue systems and speaker-aware models.
 
-🌐 Explore Folders
+
+### 🌐 Explore Folders
 /data/education – 40 conversations
 
 /data/health – 40 conversations
@@ -86,13 +87,13 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
 
 More coming soon: agriculture, banking, emergency...
 
-🖼️ Dataset Preview
+### 🖼️ Dataset Preview
 
 ![Dataset Preview](assets/preview.png)
 
 
 
-📌 Goals
+ ### 📌 Goals
 Build bilingual AI assistants capable of handling rural and semi-urban Indian scenarios.
 
 Promote open-source Telugu NLP with culturally sensitive, realistic data.
