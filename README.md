@@ -77,6 +77,21 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
 ```
 ✅ Best for multi-turn dialogue systems and speaker-aware models.
 
+🌐 Explore Folders
+/data/education – 40 conversations
+
+/data/health – 40 conversations
+
+/data/weather – 40 conversations
+
+More coming soon: agriculture, banking, emergency...
+
+🖼️ Dataset Preview
+
+![Dataset Preview](assets/preview.png)
+
+
+
 📌 Goals
 Build bilingual AI assistants capable of handling rural and semi-urban Indian scenarios.
 
