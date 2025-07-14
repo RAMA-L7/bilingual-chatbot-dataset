@@ -59,10 +59,11 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
     { "user": "పాఠశాల సమయం ఎంత?", "bot": "పాఠశాల ఉదయం 9 గంటల నుంచి సాయంత్రం 4 గంటల వరకు ఉంటుంది." }
   ]
 }
+```
 ✅ Best for simple QA or intent classification.
 
 🅱️ Format 2: Multi-turn Chat with Speaker Labels
-
+```
 {
   "id": "health_001",
   "language": "en-te",
@@ -73,6 +74,7 @@ To ensure flexibility for different chatbot training needs, the dataset uses **t
     { "speaker": "bot", "en": "You should rest and drink plenty of fluids.", "te": "మీరు విశ్రాంతి తీసుకొని ఎక్కువగా ద్రవాలు త్రాగాలి." }
   ]
 }
+```
 ✅ Best for multi-turn dialogue systems and speaker-aware models.
 
 📌 Goals
