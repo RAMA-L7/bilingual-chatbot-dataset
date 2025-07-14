@@ -135,17 +135,17 @@ Any structural or schema issues will be flagged clearly so they can be fixed bef
 
 
 
-🔗 GitHub
+### 🔗 GitHub
 📁 Repo: bilingual-chatbot-dataset
 
-✍️ Contribution
+### ✍️ Contribution
 We welcome suggestions and PRs to improve coverage, diversity, and format compatibility. Please ensure:
 
 Translations are accurate and culturally relevant.
 
 Tone is friendly and helpful (suitable for AI assistants).
 
-📜 License
+### 📜 License
 This dataset is released under the MIT License — free to use, share, and build upon with attribution.
 
 
