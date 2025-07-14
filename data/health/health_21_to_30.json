@@ -1,0 +1,162 @@
+[
+  {
+    "id": "health_021",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "My father is a diabetic and has a wound on his foot. It’s not healing. What should we do?",
+        "te": "నా తండ్రికి షుగర్ ఉంది మరియు ఆయన కాళ్ళపై గాయం ఉంది. అది మానటం లేదు. మేము ఏమి చేయాలి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Wound healing in diabetic patients is slow. You should consult a specialist immediately. Keep the wound clean, avoid pressure on it, and control blood sugar levels strictly.",
+        "te": "షుగర్ ఉన్నవారిలో గాయాలు మానటానికి ఎక్కువ సమయం పడుతుంది. వెంటనే వైద్య నిపుణుడిని సంప్రదించండి. గాయాన్ని శుభ్రంగా ఉంచండి, దానిపై ఒత్తిడి పెట్టకుండా ఉండండి, మరియు షుగర్‌ను కట్టడి చేయండి."
+      }
+    ]
+  },
+  {
+    "id": "health_022",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Is it safe to take paracetamol regularly for joint pain?",
+        "te": "జాయింట్ నొప్పికి ప్రతిరోజూ పారాసిటమాల్ తీసుకోవడం సురక్షితమా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Paracetamol can relieve pain but regular use should be monitored by a doctor to avoid liver damage.",
+        "te": "పారాసిటమాల్ నొప్పిని తక్కువ చేస్తుంది కానీ ప్రతిరోజూ తీసుకోవడాన్ని వైద్యుడు పర్యవేక్షించాలి, లేదంటే కాలేయం పాడవుతుంది."
+      }
+    ]
+  },
+  {
+    "id": "health_023",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Can regular walking help lower blood pressure?",
+        "te": "రొజూ నడక వల్ల బిపి తగ్గుతుందా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, 30 minutes of brisk walking daily can significantly help in managing high blood pressure.",
+        "te": "అవును, ప్రతిరోజూ 30 నిమిషాల వేగమైన నడక బిపిని నియంత్రించడంలో చాలా సహాయపడుతుంది."
+      }
+    ]
+  },
+  {
+    "id": "health_024",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "I often get headaches while working on the computer. What might be the cause?",
+        "te": "కంప్యూటర్ ముందు పని చేస్తూ నాకు తరచుగా తలనొప్పులు వస్తున్నాయి. కారణం ఏమై ఉంటుంది?"
+      },
+      {
+        "speaker": "bot",
+        "en": "It could be eye strain or posture issues. Try the 20-20-20 rule and ensure proper lighting and screen height.",
+        "te": "ఇది కళ్ళు నలివడం లేదా పొజిషన్ సమస్య వల్ల కావొచ్చు. 20-20-20 నియమాన్ని పాటించండి, సరైన వెలుగు మరియు స్క్రీన్ ఎత్తు ఉండేలా చూసుకోండి."
+      }
+    ]
+  },
+  {
+    "id": "health_025",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Can I get tested for anemia at a government hospital?",
+        "te": "అనీమియా పరీక్ష ప్రభుత్వ ఆసుపత్రిలో చేయించవచ్చా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, most government hospitals and PHCs offer hemoglobin tests for free or at minimal cost.",
+        "te": "అవును, ఎక్కువగా ప్రభుత్వ ఆసుపత్రులు మరియు PHCs లో హిమోగ్లోబిన్ పరీక్ష ఉచితంగా లేదా తక్కువ ఖర్చుతో చేస్తారు."
+      }
+    ]
+  },
+  {
+    "id": "health_026",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "My child often skips meals. Is it okay to give supplements?",
+        "te": "నా బిడ్డ తరచూ భోజనం తప్పుతుంది. సప్లిమెంట్లు ఇవ్వొచ్చా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "First, try improving diet with fruits and snacks they enjoy. Use supplements only after a doctor’s advice.",
+        "te": "మొదట పండ్లు, పిల్లలకి ఇష్టమైన స్నాక్స్ ద్వారా ఆహారాన్ని మెరుగుపరచండి. డాక్టర్ సూచనతో మాత్రమే సప్లిమెంట్లు ఇవ్వండి."
+      }
+    ]
+  },
+  {
+    "id": "health_027",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "How can I register for the free health checkup camp?",
+        "te": "ఉచిత ఆరోగ్య పరిశీలన శిబిరానికి నేను ఎలా నమోదు చేసుకోవాలి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "You can register at the local PHC or village health center. Bring your ID and Aadhar card.",
+        "te": "మీ ఊరిలోని PHC లేదా హెల్త్ సెంటర్‌లో నమోదు చేసుకోవచ్చు. మీ ఐడీ మరియు ఆధార్ కార్డు తీసుకురావాలి."
+      }
+    ]
+  },
+  {
+    "id": "health_028",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "What is the difference between viral and bacterial infections?",
+        "te": "వైరల్ మరియు బ్యాక్టీరియల్ ఇన్ఫెక్షన్ల మధ్య తేడా ఏమిటి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Viral infections are usually self-limiting, like colds. Bacterial infections may need antibiotics, like tonsillitis.",
+        "te": "వైరల్ ఇన్ఫెక్షన్లు సాధారణంగా సహజంగా తగ్గిపోతాయి, ఉదాహరణకు జలుబు. బ్యాక్టీరియల్ ఇన్ఫెక్షన్లు యాంటీబయోటిక్స్ అవసరం పడతాయి, ఉదా: టోన్సిలైటిస్."
+      }
+    ]
+  },
+  {
+    "id": "health_029",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "How do I know if I have high cholesterol?",
+        "te": "నాకు కొలెస్ట్రాల్ ఎక్కువగా ఉందా అని ఎలా తెలుసుకోగలను?"
+      },
+      {
+        "speaker": "bot",
+        "en": "High cholesterol has no symptoms. You need a lipid profile blood test to confirm.",
+        "te": "ఎక్కువ కొలెస్ట్రాల్‌కు లక్షణాలు ఉండవు. లిపిడ్ ప్రొఫైల్ బ్లడ్ టెస్ట్ ద్వారా మాత్రమే నిర్ధారణ చేయాలి."
+      }
+    ]
+  },
+  {
+    "id": "health_030",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "My mother forgets things often. Could it be memory loss or dementia?",
+        "te": "నా అమ్మ తరచూ విషయాలు మర్చిపోతున్నారు. ఇది మతిమరపు లేక డిమెన్షియా అయి ఉండొచ్చా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "It could be age-related memory loss, but if frequent, consult a neurologist to rule out dementia.",
+        "te": "ఇది వయసుతో వచ్చిన మతిమరపు అయి ఉండొచ్చు, కానీ తరచూ జరుగుతుంటే డిమెన్షియా ఉందా అని నెరోలాజిస్ట్‌ని సంప్రదించండి."
+      }
+    ]
+  }
+]

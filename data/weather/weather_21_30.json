@@ -1,0 +1,92 @@
+[
+  {
+    "id": "weather_021",
+    "topic": "Weather Change and Health",
+    "language": "en-te",
+    "turns": [
+      {"user": "I’m getting sick due to sudden weather changes. What can I do?", "bot": "అचानक వాతావరణ మార్పుల వల్ల నేను జలుబు పడుతున్నాను. నేను ఏం చేయాలి?"},
+      {"user": "Use warm clothes, eat healthy, and stay hydrated. Consult a doctor if symptoms persist.", "bot": "వెచ్చని దుస్తులు వాడండి, ఆరోగ్యకరమైన ఆహారం తీసుకోండి, నీరు ఎక్కువగా త్రాగండి. లక్షణాలు మ persisted అయితే డాక్టర్‌ను సంప్రదించండి."}
+    ]
+  },
+  {
+    "id": "weather_022",
+    "topic": "Winter Forecast",
+    "language": "en-te",
+    "turns": [
+      {"user": "Will this winter be colder than usual?", "bot": "ఈ శీతాకాలం సాధారణం కంటే చల్లగా ఉండే అవకాశం ఉందా?"},
+      {"user": "Yes, IMD predicts a colder than average winter this year.", "bot": "అవును, భారత వాతావరణ శాఖ ఈ సంవత్సరం సాధారణం కంటే చల్లగా ఉంటుందని అంచనా వేసింది."}
+    ]
+  },
+  {
+    "id": "weather_023",
+    "topic": "Cloud Seeding",
+    "language": "en-te",
+    "turns": [
+      {"user": "What is cloud seeding?", "bot": "క్లౌడ్ సీడింగ్ అంటే ఏమిటి?"},
+      {"user": "It’s a technique to artificially induce rain by spraying chemicals into clouds.", "bot": "మేఘాల్లో రసాయనాలను స్ప్రే చేసి కృత్రిమంగా వర్షాన్ని కలిగించే విధానం ఇది."}
+    ]
+  },
+  {
+    "id": "weather_024",
+    "topic": "Air Quality Update",
+    "language": "en-te",
+    "turns": [
+      {"user": "How is the air quality in Hyderabad today?", "bot": "హైదరాబాద్‌లో ఈరోజు గాలి నాణ్యత ఎలా ఉంది?"},
+      {"user": "The AQI is 145 which is moderate, but people with asthma should be careful.", "bot": "AQI 145గా ఉంది, ఇది మోస్తరు స్థాయి. కానీ ఆస్థమా ఉన్నవారు జాగ్రత్త వహించాలి."}
+    ]
+  },
+  {
+    "id": "weather_025",
+    "topic": "Rainy Day School Closure",
+    "language": "en-te",
+    "turns": [
+      {"user": "Will schools be closed due to rain today?", "bot": "ఈరోజు వర్షం వల్ల పాఠశాలలు మూసివేయబడతాయా?"},
+      {"user": "Yes, the district collector announced a holiday for schools today.", "bot": "అవును, జిల్లాకలెక్టర్ ఈరోజు పాఠశాలలకు సెలవు ప్రకటించారు."}
+    ]
+  },
+  {
+    "id": "weather_026",
+    "topic": "Pollen Alert",
+    "language": "en-te",
+    "turns": [
+      {"user": "Is there a pollen allergy warning today?", "bot": "ఈరోజు పూల రేణువుల అలర్జీ హెచ్చరిక ఉందా?"},
+      {"user": "Yes, people with allergies should wear masks while going outside.", "bot": "అవును, అలర్జీ ఉన్నవారు బయటకి వెళ్లేటప్పుడు మాస్క్ ధరించాలి."}
+    ]
+  },
+  {
+    "id": "weather_027",
+    "topic": "Night Temperature Drop",
+    "language": "en-te",
+    "turns": [
+      {"user": "Why are nights getting colder suddenly?", "bot": "రాత్రులు అకస్మాత్తుగా చల్లగా ఎందుకు అవుతున్నాయి?"},
+      {"user": "The cold wave from the north is influencing temperatures in southern states too.", "bot": "ఉత్తర భారతదేశం నుండి వచ్చిన చలిలేఖ దక్షిణ రాష్ట్రాల ఉష్ణోగ్రతలను కూడా ప్రభావితం చేస్తోంది."}
+    ]
+  },
+  {
+    "id": "weather_028",
+    "topic": "Wind Speed Warning",
+    "language": "en-te",
+    "turns": [
+      {"user": "Is there any wind speed warning today?", "bot": "ఈరోజు గాలుల వేగంపై ఏమైనా హెచ్చరిక ఉందా?"},
+      {"user": "Yes, gusts up to 50 km/h are expected in coastal areas.", "bot": "అవును, తీరప్రాంతాలలో గాలుల వేగం గంటకు 50 కి.మీ. వరకు ఉండే అవకాశం ఉంది."}
+    ]
+  },
+  {
+    "id": "weather_029",
+    "topic": "Sunrise and Sunset",
+    "language": "en-te",
+    "turns": [
+      {"user": "What time is sunrise and sunset today?", "bot": "ఈరోజు సూర్యోదయం, సూర్యాస్తమయం ఎప్పుడు?"},
+      {"user": "Sunrise is at 6:05 AM and sunset at 6:42 PM today.", "bot": "ఈరోజు సూర్యోదయం 6:05AMకి, సూర్యాస్తమయం 6:42PMకి ఉంటుంది."}
+    ]
+  },
+  {
+    "id": "weather_030",
+    "topic": "Storm History",
+    "language": "en-te",
+    "turns": [
+      {"user": "Which was the strongest storm to hit Andhra Pradesh?", "bot": "ఆంధ్రప్రదేశ్‌ను తాకిన అత్యంత తీవ్ర తుఫాను ఏది?"},
+      {"user": "Cyclone Hudhud in 2014 was among the strongest to make landfall in Visakhapatnam.", "bot": "2014లో విశాఖపట్నం వద్ద తాకిన హుద్‌హుద్ తుఫాను అత్యంత తీవ్రత కలిగినదిగా నమోదైంది."}
+    ]
+  }
+]

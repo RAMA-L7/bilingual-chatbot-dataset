@@ -1,0 +1,84 @@
+[
+  {
+    "id": "health_011",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "What should I do if someone faints?", "te": "ఎవరి అయినా మూర్ఛ పోతే నేను ఏమి చేయాలి?"},
+      {"speaker": "bot", "en": "Make the person lie down, lift their legs slightly, and ensure fresh air.", "te": "ఆ వ్యక్తిని పడుకోబెట్టి, కాళ్లు కొంచెం పైకి ఎత్తండి, మరియు తాజా గాలిని అందించండి."},
+      {"speaker": "user", "en": "Should I give water immediately?", "te": "వెంటనే నీళ్లు ఇవ్వాలా?"},
+      {"speaker": "bot", "en": "Only if they regain consciousness and can drink safely.", "te": "వారు అపస్మార స్థితినుండి బయటపడి సురక్షితంగా త్రాగగలిగితే మాత్రమే ఇవ్వండి."}
+    ]
+  },
+  {
+    "id": "health_012",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "Can I take antibiotics without prescription?", "te": "ప్రిస్క్రిప్షన్ లేకుండా యాంటీబయోటిక్స్ తీసుకోవచ్చా?"},
+      {"speaker": "bot", "en": "No, taking antibiotics without a doctor's advice is unsafe and may cause resistance.", "te": "లేదు, డాక్టర్ సలహా లేకుండా యాంటీబయోటిక్స్ తీసుకోవడం ప్రమాదకరం మరియు ప్రతిఘటనను కలిగిస్తుంది."}
+    ]
+  },
+  {
+    "id": "health_013",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "My sugar levels are fluctuating. What should I do?", "te": "నా చక్కెర స్థాయులు మారుతూ ఉన్నాయి. నేను ఏమి చేయాలి?"},
+      {"speaker": "bot", "en": "Keep a food diary, test regularly, and consult your doctor for medication adjustment.", "te": "ఆహార డైరీ ఉంచండి, తరచూ పరీక్షించండి, మరియు మందుల సర్దుబాటుకు డాక్టర్‌ను సంప్రదించండి."}
+    ]
+  },
+  {
+    "id": "health_014",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "Is there any 24-hour medical shop near me?", "te": "నా దగ్గర 24 గంటల మెడికల్ షాప్ ఉందా?"},
+      {"speaker": "bot", "en": "Yes, Sri Lakshmi Medicals on Main Road is open 24/7.", "te": "అవును, మెయిన్ రోడ్డులోని శ్రీ లక్ష్మీ మెడికల్స్ 24 గంటలు తెరిచి ఉంటుంది."}
+    ]
+  },
+  {
+    "id": "health_015",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "Are there any vaccines for children under 5?", "te": "5 సంవత్సరాల లోపు పిల్లలకు ఏవైనా వ్యాక్సిన్లు ఉంటాయా?"},
+      {"speaker": "bot", "en": "Yes, there is a full schedule including polio, MMR, and hepatitis vaccines.", "te": "అవును, పోలియో, MMR, హెపటైటిస్ వ్యాక్సిన్లు సహా పూర్తి షెడ్యూల్ ఉంటుంది."}
+    ]
+  },
+  {
+    "id": "health_016",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "Can pregnant women take iron supplements daily?", "te": "గర్భిణీ స్త్రీలు రోజూ ఐరన్ మాత్రలు తీసుకోవచ్చా?"},
+      {"speaker": "bot", "en": "Yes, it's usually recommended after the first trimester under medical guidance.", "te": "అవును, సాధారణంగా మొదటి త్రైమాసం తర్వాత డాక్టర్ సూచన మేరకు తీసుకోవడం మంచిది."}
+    ]
+  },
+  {
+    "id": "health_017",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "I feel dizzy in the mornings. What could be the reason?", "te": "ఉదయాన్నే నాకు తలనుప్పి మరియు చక్కర్లు వేస్తున్నాయి. కారణం ఏమై ఉంటుంది?"},
+      {"speaker": "bot", "en": "It could be due to dehydration or low blood pressure. Please check with a doctor.", "te": "ఇది నీరసం లేదా తక్కువ బీపీ వల్ల కావొచ్చు. ఒకసారి డాక్టర్‌ను సంప్రదించండి."}
+    ]
+  },
+  {
+    "id": "health_018",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "How to protect myself during a heatwave?", "te": "హీట్‌వేవ్ సమయంలో నేను నా ఆరోగ్యాన్ని ఎలా కాపాడుకోవాలి?"},
+      {"speaker": "bot", "en": "Stay indoors, wear loose cotton clothes, and drink enough water.", "te": "ఇంట్లోనే ఉండండి, తేలికపాటి కాటన్ దుస్తులు ధరించండి, మరియు ఎక్కువగా నీళ్లు త్రాగండి."}
+    ]
+  },
+  {
+    "id": "health_019",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "Do PHCs provide free medicines?", "te": "ప్రాథమిక ఆరోగ్య కేంద్రాలు ఉచిత మందులు ఇస్తాయా?"},
+      {"speaker": "bot", "en": "Yes, many essential medicines are available for free at PHCs.", "te": "అవును, చాలా అవసరమైన మందులు PHCs వద్ద ఉచితంగా లభిస్తాయి."}
+    ]
+  },
+  {
+    "id": "health_020",
+    "language": "en-te",
+    "conversation": [
+      {"speaker": "user", "en": "My child has a cold and cough. What should I do?", "te": "నా బిడ్డకు జలుబు, దగ్గు వచ్చింది. నేను ఏమి చేయాలి?"},
+      {"speaker": "bot", "en": "Keep the child warm, give warm fluids, and consult a pediatrician if symptoms persist.", "te": "పిల్లను వేడిగా ఉంచండి, గోరువెచ్చని ద్రవాలు ఇవ్వండి, మరియు లక్షణాలు కొనసాగితే బాల వైద్యుడిని సంప్రదించండి."}
+    ]
+  }
+]

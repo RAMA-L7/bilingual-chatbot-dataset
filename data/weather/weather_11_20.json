@@ -1,0 +1,93 @@
+[
+  {
+    "id": "weather_011",
+    "topic": "Cyclone Alert",
+    "language": "en-te",
+    "turns": [
+      {"user": "Is there any cyclone warning for the coast?", "bot": "తీర ప్రాంతానికి తుఫాను హెచ్చరిక ఉందా?"},
+      {"user": "Yes, a red alert has been issued for the east coast due to Cyclone Megha.", "bot": "అవును, తుఫాన్ మేఘా కారణంగా తూర్పు తీరానికి ఎరుపు హెచ్చరిక జారీ చేయబడింది."}
+    ]
+  },
+  {
+    "id": "weather_012",
+    "topic": "Storm Preparation",
+    "language": "en-te",
+    "turns": [
+      {"user": "What precautions should we take during heavy storms?", "bot": "భారీ తుఫాను సమయంలో మనం ఏ జాగ్రత్తలు తీసుకోవాలి?"},
+      {"user": "Stay indoors, avoid electric poles, and keep emergency kits ready.", "bot": "ఇంట్లోనే ఉండండి, ఎలక్ట్రిక్ పోల్స్ దగ్గరకు వెళ్లకండి, అత్యవసర కిట్లు సిద్ధంగా ఉంచండి."}
+    ]
+  },
+  {
+    "id": "weather_013",
+    "topic": "Monsoon Arrival",
+    "language": "en-te",
+    "turns": [
+      {"user": "When is the monsoon expected to arrive in Andhra Pradesh?", "bot": "ఆంధ్రప్రదేశ్‌లో మాన్సూన్ ఎప్పుడొచ్చే అవకాశం ఉంది?"},
+      {"user": "Monsoon is likely to arrive by the second week of June.", "bot": "జూన్ రెండవ వారం నాటికి మాన్సూన్ రావచ్చని అంచనా."}
+    ]
+  },
+  {
+    "id": "weather_014",
+    "topic": "Fog Conditions",
+    "language": "en-te",
+    "turns": [
+      {"user": "Is there fog in the city today morning?", "bot": "ఈరోజు ఉదయం నగరంలో మబ్బు ఉందా?"},
+      {"user": "Yes, visibility is low due to dense fog until 9 AM.", "bot": "అవును, ఉదయం 9 గంటల వరకు తీవ్ర మబ్బు వల్ల దృశ్యమానం తక్కువగా ఉంది."}
+    ]
+  },
+  {
+    "id": "weather_015",
+    "topic": "UV Index",
+    "language": "en-te",
+    "turns": [
+      {"user": "What is today's UV index?", "bot": "ఈరోజు UV సూచిక ఎంత ఉంది?"},
+      {"user": "It’s 9 today, which is very high. Avoid sun exposure between 11 AM and 3 PM.", "bot": "ఈరోజు అది 9 ఉంది, ఇది చాలా ఎక్కువ. ఉదయం 11 నుంచి మధ్యాహ్నం 3 వరకు ఎండకు వెళ్లకండి."}
+    ]
+  },
+  {
+    "id": "weather_016",
+    "topic": "Weekend Weather",
+    "language": "en-te",
+    "turns": [
+      {"user": "What will the weather be like this weekend?", "bot": "ఈ వారం చివరిలో వాతావరణం ఎలా ఉంటుంది?"},
+      {"user": "Saturday will be partly cloudy, and Sunday is expected to be sunny.", "bot": "శనివారం కొంత మేఘావృతంగా ఉంటుంది, ఆదివారం ఎండగా ఉండే అవకాశం ఉంది."}
+    ]
+  },
+  {
+    "id": "weather_017",
+    "topic": "Flood Alerts",
+    "language": "en-te",
+    "turns": [
+      {"user": "Is there any flood warning in the state?", "bot": "రాష్ట్రంలో వరద హెచ్చరిక ఉందా?"},
+      {"user": "Yes, low-lying areas near Krishna River are on high alert.", "bot": "అవును, కృష్ణా నది పరిసరంలోని తక్కువ ప్రదేశాలలో హెచ్చరికలు జారీచేశారు."}
+    ]
+  },
+  {
+    "id": "weather_018",
+    "topic": "Lightning Alert",
+    "language": "en-te",
+    "turns": [
+      {"user": "Can we expect lightning tonight?", "bot": "ఈ రాత్రి మెరుపులు పడే అవకాశముందా?"},
+      {"user": "Yes, isolated lightning strikes are possible with thunderclouds.", "bot": "అవును, పిడుగులు పడే మేఘాలతో కొన్ని ప్రాంతాలలో మెరుపులు పడే అవకాశం ఉంది."}
+    ]
+  },
+  {
+    "id": "weather_019",
+    "topic": "Drought Conditions",
+    "language": "en-te",
+    "turns": [
+      {"user": "Has our district been declared drought-hit?", "bot": "మన జిల్లా ఎండబారిన ప్రాంతంగా ప్రకటించబడిందా?"},
+      {"user": "Yes, due to low rainfall, the district is under drought classification.", "bot": "అవును, తక్కువ వర్షపాతం కారణంగా జిల్లా ఎండబారిన ప్రాంతంగా ప్రకటించబడింది."}
+    ]
+  },
+  {
+    "id": "weather_020",
+    "topic": "Temperature Records",
+    "language": "en-te",
+    "turns": [
+      {"user": "What is the highest recorded temperature in Andhra Pradesh?", "bot": "ఆంధ్రప్రదేశ్‌లో నమోదైన అత్యధిక ఉష్ణోగ్రత ఎంత?"},
+      {"user": "The highest temperature recorded is 48°C in Guntur during May 2015.", "bot": "2015 మేలో గుంటూరులో 48°C నమోదైంది, ఇది అత్యధికం."}
+    ]
+  }
+]
+

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "health_031",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "I read about the Ayushman Bharat scheme. How can I check if my family is eligible?",
+        "te": "నాకు ఆయుష్మాన్ భారత్ పథకం గురించి చదివాను. నా కుటుంబం అర్హత ఉందా అని ఎలా తెలుసుకోవాలి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "You can visit the official Ayushman Bharat website or check at the nearest PHC. Enter your ration or Aadhaar number to verify eligibility.",
+        "te": "మీరు ఆయుష్మాన్ భారత్ అధికారిక వెబ్‌సైట్‌ను సందర్శించవచ్చు లేదా దగ్గరలోని PHC లో చెక్ చేయవచ్చు. మీ రేషన్ కార్డు లేదా ఆధార్ నంబర్ ఇవ్వడం ద్వారా అర్హత తెలుసుకోవచ్చు."
+      }
+    ]
+  },
+  {
+    "id": "health_032",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Is it okay to give ORS to a baby with diarrhea? She is 8 months old.",
+        "te": "దస్త్రీతో ఉన్న 8 నెలల బిడ్డకి ORS ఇవ్వవచ్చా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, ORS is safe and recommended for infants with diarrhea. Give small amounts frequently. Also consult a pediatrician immediately.",
+        "te": "అవును, ORS ఇవ్వడం సురక్షితం మరియు సిఫార్సు చేయబడుతుంది. తక్కువ మొత్తాల్లో తరచుగా ఇవ్వండి. వెంటనే పిల్లల వైద్యుని సంప్రదించండి."
+      }
+    ]
+  },
+  {
+    "id": "health_033",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Are generic medicines as effective as branded ones?",
+        "te": "జనరిక్ మందులు బ్రాండెడ్ మందుల్లానే పనిచేస్తాయా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, generic medicines contain the same active ingredients and are equally effective. They are also more affordable.",
+        "te": "అవును, జనరిక్ మందుల్లోనూ అదే చురుకైన పదార్థాలు ఉంటాయి మరియు అవి సమానంగా ప్రభావితం చేస్తాయి. వీటి ధర తక్కువగా ఉంటుంది."
+      }
+    ]
+  },
+  {
+    "id": "health_034",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "My grandmother forgets to take her medicines. Any suggestions?",
+        "te": "నా అమ్మమ్మ మందులు తినడం మర్చిపోతున్నారు. ఏమైనా సలహాలు?"
+      },
+      {
+        "speaker": "bot",
+        "en": "You can use a pill organizer with alarms or smartphone reminders. Also consider involving another family member to supervise her medication routine.",
+        "te": "పిల్ ఆర్గనైజర్ లేదా ఫోన్‌లో అలారం సెట్టింగ్‌లు ఉపయోగించండి. అలాగే కుటుంబ సభ్యుల సహకారం తీసుకోవడం మంచిది."
+      }
+    ]
+  },
+  {
+    "id": "health_035",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "My BP suddenly dropped to 90/60. I felt dizzy. What could be the cause?",
+        "te": "నాకు బిపి ఒక్కసారిగా 90/60కి తగ్గింది. తలనిరుప్పుగా అనిపించింది. కారణం ఏమై ఉంటుంది?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Low BP can be due to dehydration, medications, or sudden posture change. Drink fluids and consult a doctor for further diagnosis.",
+        "te": "తక్కువ బిపి డీహైడ్రేషన్, మందుల ప్రభావం లేదా హఠాత్తుగా లేచే సమయంలో రావొచ్చు. ద్రవ పదార్థాలు తీసుకోండి మరియు డాక్టర్‌ను కలవండి."
+      }
+    ]
+  },
+  {
+    "id": "health_036",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "What vaccinations are required for adults after 30 years?",
+        "te": "30 ఏళ్ల తరువాత పెద్దలకి ఏవైనా టీకాలు అవసరమా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes. Adults should consider flu shots annually, tetanus boosters every 10 years, and vaccines for hepatitis B, shingles, and pneumonia based on health status.",
+        "te": "అవును. ప్రతీవ సంవత్సరమూ ఫ్లూ టీకా, ప్రతి 10 సంవత్సరాలకు టెటనస్ బూస్టర్, ఆరోగ్య పరిస్థితిని బట్టి హెపటైటిస్ B, షింగిల్స్, న్యుమోనియాకు టీకాలు తీసుకోవాలి."
+      }
+    ]
+  },
+  {
+    "id": "health_037",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "What precautions should pregnant women take during the monsoon?",
+        "te": "వర్షాకాలంలో గర్భిణీలు ఏ జాగ్రత్తలు తీసుకోవాలి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Pregnant women should avoid street food, drink only boiled water, wear clean clothes, and avoid mosquito-prone areas to prevent infections.",
+        "te": "గర్భిణీలు బహిరంగ ఆహారం తినకూడదు, కేవలం ఉడికించిన నీటిని తాగాలి, శుభ్రమైన దుస్తులు వేసుకోవాలి, దోమలు ఎక్కువగా ఉండే ప్రాంతాలకి వెళ్లకుండా జాగ్రత్త పడాలి."
+      }
+    ]
+  },
+  {
+    "id": "health_038",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Can yoga help with anxiety and stress?",
+        "te": "యోగా ద్వారా టెన్షన్, ఉత్కంఠ తగ్గుతాయా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, practicing yoga and meditation regularly can significantly reduce anxiety and stress. It also improves focus and sleep quality.",
+        "te": "అవును, యోగా మరియు ధ్యానం సాధన టెన్షన్, ఉత్కంఠ తగ్గించడంలో చాలా సహాయపడతాయి. ఇది ఫోకస్ మరియు నిద్ర నాణ్యతను మెరుగుపరుస్తుంది."
+      }
+    ]
+  },
+  {
+    "id": "health_039",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Can I donate blood if I had COVID-19 recently?",
+        "te": "ఇటీవల కోవిడ్ వచ్చిన తర్వాత నేను రక్తం దానం చేయగలనా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "You should wait at least 14 days after full recovery and being symptom-free before donating blood. Always follow the blood bank’s specific guidelines.",
+        "te": "పూర్తిగా కోలుకున్న 14 రోజులకు తర్వాత మరియు లక్షణాలు లేనప్పుడు మాత్రమే రక్తం దానం చేయవచ్చు. రక్త బ్యాంక్ మార్గదర్శకాలను పాటించండి."
+      }
+    ]
+  },
+  {
+    "id": "health_040",
+    "language": "en-te",
+    "conversation": [
+      {
+        "speaker": "user",
+        "en": "Where can I report expired medicines being sold in medical shops?",
+        "te": "మెడికల్ షాపుల్లో గడువు ముగిసిన మందులు అమ్ముతున్నారు. ఎక్కడ ఫిర్యాదు చేయాలి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "You can report to the Drug Control Administration or file a complaint on the state health department portal with details like shop name and receipt.",
+        "te": "మీరు డ్రగ్ కంట్రోల్ అడ్మినిస్ట్రేషన్‌కు లేదా రాష్ట్ర ఆరోగ్య శాఖ వెబ్‌సైట్‌లో ఫిర్యాదు చేసుకోవచ్చు. షాపు పేరు, రసీదు వంటి వివరాలు ఇవ్వాలి."
+      }
+    ]
+  }
+]
