@@ -100,10 +100,12 @@ Promote open-source Telugu NLP with culturally sensitive, realistic data.
 Assist researchers, startups, and educators working on inclusive AI systems.
 
 
-✅ Dataset Validation
+
+### ✅ Dataset Validation
+
 To ensure the dataset maintains a consistent and clean structure, we’ve added an automated validation script:
 
-### 📂 Script
+# 📂 Script
 ```
 validate_dataset.py
 ```
