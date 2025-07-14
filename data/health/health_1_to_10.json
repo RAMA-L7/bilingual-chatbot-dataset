@@ -3,82 +3,170 @@
     "id": "health_001",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "I have a fever.", "te": "నాకు జ్వరం వచ్చింది."},
-      {"speaker": "bot", "en": "Since when are you experiencing fever?", "te": "ఎప్పటి నుంచి జ్వరం ఉందని అనుభవిస్తున్నారు?"},
-      {"speaker": "user", "en": "Since last night.", "te": "నిన్న రాత్రి నుంచి."},
-      {"speaker": "bot", "en": "You should rest and drink plenty of fluids.", "te": "మీరు విశ్రాంతి తీసుకొని ఎక్కువగా ద్రవాలు త్రాగాలి."}
+      {
+        "speaker": "user",
+        "en": "I have a fever.",
+        "te": "నాకు జ్వరం వచ్చింది."
+      },
+      {
+        "speaker": "bot",
+        "en": "Since when are you experiencing fever?",
+        "te": "ఎప్పటి నుంచి జ్వరం ఉందని అనుభవిస్తున్నారు?"
+      },
+      {
+        "speaker": "user",
+        "en": "Since last night.",
+        "te": "నిన్న రాత్రి నుంచి."
+      },
+      {
+        "speaker": "bot",
+        "en": "You should rest and drink plenty of fluids.",
+        "te": "మీరు విశ్రాంతి తీసుకొని ఎక్కువగా ద్రవాలు త్రాగాలి."
+      }
     ]
   },
   {
     "id": "health_002",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "Where is the nearest hospital?", "te": "ఇక్కడికి సమీపంలోని ఆసుపత్రి ఎక్కడ ఉంది?"},
-      {"speaker": "bot", "en": "There is a government hospital 2 kilometers away.", "te": "రెండు కిలోమీటర్ల దూరంలో ప్రభుత్వ ఆసుపత్రి ఉంది."}
+      {
+        "speaker": "user",
+        "en": "Where is the nearest hospital?",
+        "te": "ఇక్కడికి సమీపంలోని ఆసుపత్రి ఎక్కడ ఉంది?"
+      },
+      {
+        "speaker": "bot",
+        "en": "There is a government hospital 2 kilometers away.",
+        "te": "రెండు కిలోమీటర్ల దూరంలో ప్రభుత్వ ఆసుపత్రి ఉంది."
+      }
     ]
   },
   {
     "id": "health_003",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "Can I get a COVID vaccine here?", "te": "ఇక్కడ నాకు కోవిడ్ వ్యాక్సిన్ లభించుతుందా?"},
-      {"speaker": "bot", "en": "Yes, it is available from 10 AM to 4 PM.", "te": "అవును, ఇది ఉదయం 10 గంటల నుండి మధ్యాహ్నం 4 వరకు అందుబాటులో ఉంటుంది."}
+      {
+        "speaker": "user",
+        "en": "Can I get a COVID vaccine here?",
+        "te": "ఇక్కడ నాకు కోవిడ్ వ్యాక్సిన్ లభించుతుందా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, it is available from 10 AM to 4 PM.",
+        "te": "అవును, ఇది ఉదయం 10 గంటల నుండి మధ్యాహ్నం 4 వరకు అందుబాటులో ఉంటుంది."
+      }
     ]
   },
   {
     "id": "health_004",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "What are the symptoms of dengue?", "te": "డెంగీ లక్షణాలు ఏమిటి?"},
-      {"speaker": "bot", "en": "High fever, body pain, and rashes are common symptoms.", "te": "జ్వరం, శరీర నొప్పులు, మరియు మచ్చలు సాధారణ లక్షణాలు."}
+      {
+        "speaker": "user",
+        "en": "What are the symptoms of dengue?",
+        "te": "డెంగీ లక్షణాలు ఏమిటి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "High fever, body pain, and rashes are common symptoms.",
+        "te": "జ్వరం, శరీర నొప్పులు, మరియు మచ్చలు సాధారణ లక్షణాలు."
+      }
     ]
   },
   {
     "id": "health_005",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "I feel breathless while climbing stairs.", "te": "నాగిళ్లు ఎక్కేటప్పుడు నాకు ఊపిరితిత్తులు పోతున్నాయి."},
-      {"speaker": "bot", "en": "It’s best to consult a doctor for a check-up.", "te": "పరిశీలన కోసం డాక్టర్‌ను సంప్రదించడం మంచిది."}
+      {
+        "speaker": "user",
+        "en": "I feel breathless while climbing stairs.",
+        "te": "నాగిళ్లు ఎక్కేటప్పుడు నాకు ఊపిరితిత్తులు పోతున్నాయి."
+      },
+      {
+        "speaker": "bot",
+        "en": "It’s best to consult a doctor for a check-up.",
+        "te": "పరిశీలన కోసం డాక్టర్‌ను సంప్రదించడం మంచిది."
+      }
     ]
   },
   {
     "id": "health_006",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "Do you have a general physician available now?", "te": "ప్రస్తుతం మీ వద్ద జనరల్ వైద్యుడు అందుబాటులో ఉన్నారా?"},
-      {"speaker": "bot", "en": "Yes, the doctor is available till 1 PM today.", "te": "అవును, డాక్టర్ ఈ రోజు మధ్యాహ్నం 1 గంట వరకు అందుబాటులో ఉంటారు."}
+      {
+        "speaker": "user",
+        "en": "Do you have a general physician available now?",
+        "te": "ప్రస్తుతం మీ వద్ద జనరల్ వైద్యుడు అందుబాటులో ఉన్నారా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, the doctor is available till 1 PM today.",
+        "te": "అవును, డాక్టర్ ఈ రోజు మధ్యాహ్నం 1 గంట వరకు అందుబాటులో ఉంటారు."
+      }
     ]
   },
   {
     "id": "health_007",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "What is the normal blood pressure range?", "te": "సాధారణ రక్తపోటు శ్రేణి ఏమిటి?"},
-      {"speaker": "bot", "en": "Around 120/80 mmHg is considered normal.", "te": "సుమారు 120/80 mmHg ని సాధారణంగా పరిగణిస్తారు."}
+      {
+        "speaker": "user",
+        "en": "What is the normal blood pressure range?",
+        "te": "సాధారణ రక్తపోటు శ్రేణి ఏమిటి?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Around 120/80 mmHg is considered normal.",
+        "te": "సుమారు 120/80 mmHg ని సాధారణంగా పరిగణిస్తారు."
+      }
     ]
   },
   {
     "id": "health_008",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "How can I prevent seasonal flu?", "te": "సీజనల్ ఫ్లూ నుంచి నేను ఎలా తప్పించుకోవచ్చు?"},
-      {"speaker": "bot", "en": "By maintaining hygiene and taking vaccines on time.", "te": "హైజీన్ పాటించడం మరియు సమయానికి వ్యాక్సిన్ తీసుకోవడం ద్వారా."}
+      {
+        "speaker": "user",
+        "en": "How can I prevent seasonal flu?",
+        "te": "సీజనల్ ఫ్లూ నుంచి నేను ఎలా తప్పించుకోవచ్చు?"
+      },
+      {
+        "speaker": "bot",
+        "en": "By maintaining hygiene and taking vaccines on time.",
+        "te": "హైజీన్ పాటించడం మరియు సమయానికి వ్యాక్సిన్ తీసుకోవడం ద్వారా."
+      }
     ]
   },
   {
     "id": "health_009",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "Is paracetamol safe for children?", "te": "పరిసెటమాల్ పిల్లలకి సురక్షితమా?"},
-      {"speaker": "bot", "en": "Yes, but only under doctor’s guidance and correct dosage.", "te": "అవును, కానీ డాక్టర్ సూచించిన మోతాదులో మాత్రమే."}
+      {
+        "speaker": "user",
+        "en": "Is paracetamol safe for children?",
+        "te": "పరిసెటమాల్ పిల్లలకి సురక్షితమా?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Yes, but only under doctor’s guidance and correct dosage.",
+        "te": "అవును, కానీ డాక్టర్ సూచించిన మోతాదులో మాత్రమే."
+      }
     ]
   },
   {
     "id": "health_010",
     "language": "en-te",
     "conversation": [
-      {"speaker": "user", "en": "Where can I get a free health check-up?", "te": "నాకు ఉచిత ఆరోగ్య పరీక్ష ఎక్కడ లభిస్తుంది?"},
-      {"speaker": "bot", "en": "Many PHCs conduct free check-ups on Fridays.", "te": "చాలా ప్రాథమిక ఆరోగ్య కేంద్రాలు శుక్రవారాలు ఉచిత పరీక్షలు నిర్వహిస్తాయి."}
+      {
+        "speaker": "user",
+        "en": "Where can I get a free health check-up?",
+        "te": "నాకు ఉచిత ఆరోగ్య పరీక్ష ఎక్కడ లభిస్తుంది?"
+      },
+      {
+        "speaker": "bot",
+        "en": "Many PHCs conduct free check-ups on Fridays.",
+        "te": "చాలా ప్రాథమిక ఆరోగ్య కేంద్రాలు శుక్రవారాలు ఉచిత పరీక్షలు నిర్వహిస్తాయి."
+      }
     ]
   }
 ]

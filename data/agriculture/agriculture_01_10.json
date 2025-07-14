@@ -3,80 +3,140 @@
     "id": 1,
     "language": "bilingual",
     "conversation": [
-      {"user": "What is the best fertilizer for tomato plants?", "bot": "Use a balanced NPK fertilizer like 10-10-10 for healthy tomato growth."},
-      {"user": "టమోటా మొక్కలకి మంచి ఎరువు ఏది?", "bot": "10-10-10 వంటి సమతుల్య ఎన్‌పీకే ఎరువును ఉపయోగించండి, ఆరోగ్యంగా పెరగడానికి."}
+      {
+        "user": "What is the best fertilizer for tomato plants?",
+        "bot": "Use a balanced NPK fertilizer like 10-10-10 for healthy tomato growth."
+      },
+      {
+        "user": "టమోటా మొక్కలకి మంచి ఎరువు ఏది?",
+        "bot": "10-10-10 వంటి సమతుల్య ఎన్‌పీకే ఎరువును ఉపయోగించండి, ఆరోగ్యంగా పెరగడానికి."
+      }
     ]
   },
   {
     "id": 2,
     "language": "bilingual",
     "conversation": [
-      {"user": "When should I harvest groundnuts?", "bot": "Harvest groundnuts when the leaves start yellowing and pods mature underground."},
-      {"user": "పల్లీలు ఎప్పుడు కోయాలి?", "bot": "ఆకు పచ్చదనం తగ్గి పళ్లి గింజలు మట్టిలో పూర్తిగా పెరిగినప్పుడు కోయాలి."}
+      {
+        "user": "When should I harvest groundnuts?",
+        "bot": "Harvest groundnuts when the leaves start yellowing and pods mature underground."
+      },
+      {
+        "user": "పల్లీలు ఎప్పుడు కోయాలి?",
+        "bot": "ఆకు పచ్చదనం తగ్గి పళ్లి గింజలు మట్టిలో పూర్తిగా పెరిగినప్పుడు కోయాలి."
+      }
     ]
   },
   {
     "id": 3,
     "language": "bilingual",
     "conversation": [
-      {"user": "How to control pests in paddy?", "bot": "Use neem oil spray or integrated pest management techniques."},
-      {"user": "వరి లో తేనెటీగల నివారణ ఎలా చేయాలి?", "bot": "నిమ్మెన్నెను స్ప్రే చేయండి లేదా సమగ్ర కీటక నియంత్రణ పద్ధతులు పాటించండి."}
+      {
+        "user": "How to control pests in paddy?",
+        "bot": "Use neem oil spray or integrated pest management techniques."
+      },
+      {
+        "user": "వరి లో తేనెటీగల నివారణ ఎలా చేయాలి?",
+        "bot": "నిమ్మెన్నెను స్ప్రే చేయండి లేదా సమగ్ర కీటక నియంత్రణ పద్ధతులు పాటించండి."
+      }
     ]
   },
   {
     "id": 4,
     "language": "bilingual",
     "conversation": [
-      {"user": "Which crop is suitable for sandy soil?", "bot": "Crops like groundnut, millets, and watermelon grow well in sandy soil."},
-      {"user": "గరికి మట్టిలో ఏ పంట బాగా పెరుగుతుంది?", "bot": "పల్లి, శ్రేణులు, దబ్బకాయ వంటి పంటలు బాగా పెరుగుతాయి."}
+      {
+        "user": "Which crop is suitable for sandy soil?",
+        "bot": "Crops like groundnut, millets, and watermelon grow well in sandy soil."
+      },
+      {
+        "user": "గరికి మట్టిలో ఏ పంట బాగా పెరుగుతుంది?",
+        "bot": "పల్లి, శ్రేణులు, దబ్బకాయ వంటి పంటలు బాగా పెరుగుతాయి."
+      }
     ]
   },
   {
     "id": 5,
     "language": "bilingual",
     "conversation": [
-      {"user": "How often should I irrigate cotton fields?", "bot": "Irrigate every 10–15 days depending on soil moisture and weather."},
-      {"user": "పత్తి పొలాలను ఎంత తరచుగా నీరుపెట్టాలి?", "bot": "వాతావరణాన్ని మరియు మట్టిలో తేమను బట్టి 10–15 రోజులకు ఒకసారి నీరుపెట్టండి."}
+      {
+        "user": "How often should I irrigate cotton fields?",
+        "bot": "Irrigate every 10–15 days depending on soil moisture and weather."
+      },
+      {
+        "user": "పత్తి పొలాలను ఎంత తరచుగా నీరుపెట్టాలి?",
+        "bot": "వాతావరణాన్ని మరియు మట్టిలో తేమను బట్టి 10–15 రోజులకు ఒకసారి నీరుపెట్టండి."
+      }
     ]
   },
   {
     "id": 6,
     "language": "bilingual",
     "conversation": [
-      {"user": "Which is the high-yielding variety of paddy?", "bot": "Swarna, MTU-1010, and IR64 are known high-yielding varieties."},
-      {"user": "అధిక దిగుబడి వచ్చే వరి రకాలు ఏవీ?", "bot": "స్వర్ణ, ఎంటియూ-1010, ఐఆర్64 వంటి రకాలు అధిక దిగుబడి ఇస్తాయి."}
+      {
+        "user": "Which is the high-yielding variety of paddy?",
+        "bot": "Swarna, MTU-1010, and IR64 are known high-yielding varieties."
+      },
+      {
+        "user": "అధిక దిగుబడి వచ్చే వరి రకాలు ఏవీ?",
+        "bot": "స్వర్ణ, ఎంటియూ-1010, ఐఆర్64 వంటి రకాలు అధిక దిగుబడి ఇస్తాయి."
+      }
     ]
   },
   {
     "id": 7,
     "language": "bilingual",
     "conversation": [
-      {"user": "What are the symptoms of nutrient deficiency in plants?", "bot": "Yellow leaves, stunted growth, and poor fruiting indicate nutrient deficiency."},
-      {"user": "సస్య పోషక లోప లక్షణాలు ఏమిటి?", "bot": "ఆకులు పసుపు రంగులోకి మారడం, మొక్కలు చిన్నగా ఉండటం, ఫలాలు రావడం లేదు వంటి లక్షణాలు కనిపిస్తాయి."}
+      {
+        "user": "What are the symptoms of nutrient deficiency in plants?",
+        "bot": "Yellow leaves, stunted growth, and poor fruiting indicate nutrient deficiency."
+      },
+      {
+        "user": "సస్య పోషక లోప లక్షణాలు ఏమిటి?",
+        "bot": "ఆకులు పసుపు రంగులోకి మారడం, మొక్కలు చిన్నగా ఉండటం, ఫలాలు రావడం లేదు వంటి లక్షణాలు కనిపిస్తాయి."
+      }
     ]
   },
   {
     "id": 8,
     "language": "bilingual",
     "conversation": [
-      {"user": "How to prepare compost at home?", "bot": "Use dry leaves, kitchen waste, and cow dung in layers; turn regularly for decomposition."},
-      {"user": "ఇంట్లో కంపోస్టు ఎలా తయారు చేయాలి?", "bot": "ఎండిన ఆకులు, వంట ఇంటి మాలినాలు, పశువుల ఎరువు వాడి పొరలుగా వేయండి; తరచూ కలుపుతూ ఉంచాలి."}
+      {
+        "user": "How to prepare compost at home?",
+        "bot": "Use dry leaves, kitchen waste, and cow dung in layers; turn regularly for decomposition."
+      },
+      {
+        "user": "ఇంట్లో కంపోస్టు ఎలా తయారు చేయాలి?",
+        "bot": "ఎండిన ఆకులు, వంట ఇంటి మాలినాలు, పశువుల ఎరువు వాడి పొరలుగా వేయండి; తరచూ కలుపుతూ ఉంచాలి."
+      }
     ]
   },
   {
     "id": 9,
     "language": "bilingual",
     "conversation": [
-      {"user": "Which diseases affect mango trees?", "bot": "Powdery mildew, anthracnose, and mango hopper are common diseases."},
-      {"user": "మామిడి చెట్లకు వచ్చే వ్యాధులు ఏమిటి?", "bot": "పొడి పుళ్ళు, యాంత్రాక్నోజ్, మామిడి హాపర్ వంటి వ్యాధులు సాధారణంగా వస్తాయి."}
+      {
+        "user": "Which diseases affect mango trees?",
+        "bot": "Powdery mildew, anthracnose, and mango hopper are common diseases."
+      },
+      {
+        "user": "మామిడి చెట్లకు వచ్చే వ్యాధులు ఏమిటి?",
+        "bot": "పొడి పుళ్ళు, యాంత్రాక్నోజ్, మామిడి హాపర్ వంటి వ్యాధులు సాధారణంగా వస్తాయి."
+      }
     ]
   },
   {
     "id": 10,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I grow vegetables on a terrace?", "bot": "Yes, using grow bags or pots with good drainage and organic compost."},
-      {"user": "టెర్రేస్ పై కూరగాయలు పెంచవచ్చా?", "bot": "అవును, మంచి నీటిపారుదల గల గ్రమ్ బ్యాగ్స్ లేదా కుండీల్లో ఆర్గానిక్ కంపోస్టుతో పెంచవచ్చు."}
+      {
+        "user": "Can I grow vegetables on a terrace?",
+        "bot": "Yes, using grow bags or pots with good drainage and organic compost."
+      },
+      {
+        "user": "టెర్రేస్ పై కూరగాయలు పెంచవచ్చా?",
+        "bot": "అవును, మంచి నీటిపారుదల గల గ్రమ్ బ్యాగ్స్ లేదా కుండీల్లో ఆర్గానిక్ కంపోస్టుతో పెంచవచ్చు."
+      }
     ]
   }
 ]

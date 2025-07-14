@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Bilingual Chatbot Format 2",
+  "type": "object",
+  "required": ["id", "language", "conversation"],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string",
+      "enum": ["en-te", "te-en"]
+    },
+    "conversation": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["speaker", "en", "te"],
+        "properties": {
+          "speaker": { "type": "string", "enum": ["user", "bot"] },
+          "en": { "type": "string" },
+          "te": { "type": "string" }
+        }
+      }
+    }
+  }
+}

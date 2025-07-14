@@ -1,92 +1,142 @@
 [
   {
     "id": "weather_001",
-    "topic": "Weather Forecast",
     "language": "en-te",
-    "turns": [
-      {"user": "What is the weather like today?", "bot": "ఈరోజు వాతావరణం ఎలా ఉంది?"},
-      {"user": "It's mostly sunny with a high of 32°C.", "bot": "ఇది ఎక్కువగా ఎండగా ఉంది, గరిష్ట ఉష్ణోగ్రత 32°C."}
+    "conversation": [
+      {
+        "user": "What is the weather like today?",
+        "bot": "ఈరోజు వాతావరణం ఎలా ఉంది?"
+      },
+      {
+        "user": "It's mostly sunny with a high of 32°C.",
+        "bot": "ఇది ఎక్కువగా ఎండగా ఉంది, గరిష్ట ఉష్ణోగ్రత 32°C."
+      }
     ]
   },
   {
     "id": "weather_002",
-    "topic": "Rain Prediction",
     "language": "en-te",
-    "turns": [
-      {"user": "Is it going to rain this evening?", "bot": "ఈ సాయంత్రం వర్షం పడే అవకాశముందా?"},
-      {"user": "Yes, there's a 70% chance of rain after 6 PM.", "bot": "అవును, సాయంత్రం 6 గంటల తర్వాత 70% వర్షం పడే అవకాశం ఉంది."}
+    "conversation": [
+      {
+        "user": "Is it going to rain this evening?",
+        "bot": "ఈ సాయంత్రం వర్షం పడే అవకాశముందా?"
+      },
+      {
+        "user": "Yes, there's a 70% chance of rain after 6 PM.",
+        "bot": "అవును, సాయంత్రం 6 గంటల తర్వాత 70% వర్షం పడే అవకాశం ఉంది."
+      }
     ]
   },
   {
     "id": "weather_003",
-    "topic": "Humidity",
     "language": "en-te",
-    "turns": [
-      {"user": "What is the humidity level today?", "bot": "ఈరోజు ఆర్ద్రత స్థాయి ఎంత ఉంది?"},
-      {"user": "It is around 68%, quite humid.", "bot": "సుమారు 68% ఉంది, చాలా ఆర్ద్రంగా ఉంది."}
+    "conversation": [
+      {
+        "user": "What is the humidity level today?",
+        "bot": "ఈరోజు ఆర్ద్రత స్థాయి ఎంత ఉంది?"
+      },
+      {
+        "user": "It is around 68%, quite humid.",
+        "bot": "సుమారు 68% ఉంది, చాలా ఆర్ద్రంగా ఉంది."
+      }
     ]
   },
   {
     "id": "weather_004",
-    "topic": "Temperature",
     "language": "en-te",
-    "turns": [
-      {"user": "What is the current temperature in Hyderabad?", "bot": "హైదరాబాద్లో ప్రస్తుతం ఉష్ణోగ్రత ఎంత ఉంది?"},
-      {"user": "It's currently 29°C with light breeze.", "bot": "ప్రస్తుతం 29°C ఉంది, తేలికపాటి గాలులు వీస్తున్నాయి."}
+    "conversation": [
+      {
+        "user": "What is the current temperature in Hyderabad?",
+        "bot": "హైదరాబాద్లో ప్రస్తుతం ఉష్ణోగ్రత ఎంత ఉంది?"
+      },
+      {
+        "user": "It's currently 29°C with light breeze.",
+        "bot": "ప్రస్తుతం 29°C ఉంది, తేలికపాటి గాలులు వీస్తున్నాయి."
+      }
     ]
   },
   {
     "id": "weather_005",
-    "topic": "Clothing Advice",
     "language": "en-te",
-    "turns": [
-      {"user": "What should I wear today?", "bot": "ఈరోజు నేను ఏదైనా ధరించాలి?"},
-      {"user": "It's hot today. Wear something light and breathable.", "bot": "ఇది వేడిగా ఉంది. తేలికగా, ఊపిరి తీసుకునే బట్టలు ధరించండి."}
+    "conversation": [
+      {
+        "user": "What should I wear today?",
+        "bot": "ఈరోజు నేను ఏదైనా ధరించాలి?"
+      },
+      {
+        "user": "It's hot today. Wear something light and breathable.",
+        "bot": "ఇది వేడిగా ఉంది. తేలికగా, ఊపిరి తీసుకునే బట్టలు ధరించండి."
+      }
     ]
   },
   {
     "id": "weather_006",
-    "topic": "Air Quality",
     "language": "en-te",
-    "turns": [
-      {"user": "How is the air quality today?", "bot": "ఈరోజు గాలిలో కలుషిత స్థాయి ఎలా ఉంది?"},
-      {"user": "Air quality is moderate today. People with allergies should be careful.", "bot": "గాలి నాణ్యత ఈరోజు మితమైన స్థాయిలో ఉంది. అలర్జీ ఉన్నవారు జాగ్రత్తగా ఉండాలి."}
+    "conversation": [
+      {
+        "user": "How is the air quality today?",
+        "bot": "ఈరోజు గాలిలో కలుషిత స్థాయి ఎలా ఉంది?"
+      },
+      {
+        "user": "Air quality is moderate today. People with allergies should be careful.",
+        "bot": "గాలి నాణ్యత ఈరోజు మితమైన స్థాయిలో ఉంది. అలర్జీ ఉన్నవారు జాగ్రత్తగా ఉండాలి."
+      }
     ]
   },
   {
     "id": "weather_007",
-    "topic": "Wind Speed",
     "language": "en-te",
-    "turns": [
-      {"user": "What is the wind speed right now?", "bot": "ప్రస్తుతం గాలి వేగం ఎంత ఉంది?"},
-      {"user": "The wind is blowing at 12 km/h from the northwest.", "bot": "గాలి ఉత్తర పశ్చిమ దిశ నుండి 12 కి.మీ/గం వేగంతో వీస్తోంది."}
+    "conversation": [
+      {
+        "user": "What is the wind speed right now?",
+        "bot": "ప్రస్తుతం గాలి వేగం ఎంత ఉంది?"
+      },
+      {
+        "user": "The wind is blowing at 12 km/h from the northwest.",
+        "bot": "గాలి ఉత్తర పశ్చిమ దిశ నుండి 12 కి.మీ/గం వేగంతో వీస్తోంది."
+      }
     ]
   },
   {
     "id": "weather_008",
-    "topic": "Severe Weather Alerts",
     "language": "en-te",
-    "turns": [
-      {"user": "Is there any weather warning today?", "bot": "ఈరోజు ఏదైనా వాతావరణ హెచ్చరిక ఉందా?"},
-      {"user": "Yes, a thunderstorm warning has been issued for the evening.", "bot": "అవును, ఈ సాయంత్రం గర్జనతో కూడిన వర్షం హెచ్చరిక జారీ చేయబడింది."}
+    "conversation": [
+      {
+        "user": "Is there any weather warning today?",
+        "bot": "ఈరోజు ఏదైనా వాతావరణ హెచ్చరిక ఉందా?"
+      },
+      {
+        "user": "Yes, a thunderstorm warning has been issued for the evening.",
+        "bot": "అవును, ఈ సాయంత్రం గర్జనతో కూడిన వర్షం హెచ్చరిక జారీ చేయబడింది."
+      }
     ]
   },
   {
     "id": "weather_009",
-    "topic": "Weather Tomorrow",
     "language": "en-te",
-    "turns": [
-      {"user": "What will the weather be like tomorrow?", "bot": "రేపు వాతావరణం ఎలా ఉండబోతోంది?"},
-      {"user": "Tomorrow will be cloudy with chances of scattered showers.", "bot": "రేపు మేఘావృతంగా ఉండే అవకాశం ఉంది, కొద్దిగా చినుకులు పడే అవకాశముంది."}
+    "conversation": [
+      {
+        "user": "What will the weather be like tomorrow?",
+        "bot": "రేపు వాతావరణం ఎలా ఉండబోతోంది?"
+      },
+      {
+        "user": "Tomorrow will be cloudy with chances of scattered showers.",
+        "bot": "రేపు మేఘావృతంగా ఉండే అవకాశం ఉంది, కొద్దిగా చినుకులు పడే అవకాశముంది."
+      }
     ]
   },
   {
     "id": "weather_010",
-    "topic": "Sunrise and Sunset",
     "language": "en-te",
-    "turns": [
-      {"user": "What time is sunrise and sunset today?", "bot": "ఈరోజు సూర్యోదయం మరియు సూర్యాస్తమయం ఏ సమయంలో జరుగుతుంది?"},
-      {"user": "Sunrise is at 5:45 AM and sunset at 6:30 PM.", "bot": "సూర్యోదయం ఉదయం 5:45 కి మరియు సూర్యాస్తమయం సాయంత్రం 6:30 కి."}
+    "conversation": [
+      {
+        "user": "What time is sunrise and sunset today?",
+        "bot": "ఈరోజు సూర్యోదయం మరియు సూర్యాస్తమయం ఏ సమయంలో జరుగుతుంది?"
+      },
+      {
+        "user": "Sunrise is at 5:45 AM and sunset at 6:30 PM.",
+        "bot": "సూర్యోదయం ఉదయం 5:45 కి మరియు సూర్యాస్తమయం సాయంత్రం 6:30 కి."
+      }
     ]
   }
 ]

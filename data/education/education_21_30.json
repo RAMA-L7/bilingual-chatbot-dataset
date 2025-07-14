@@ -3,84 +3,156 @@
     "id": 21,
     "language": "bilingual",
     "conversation": [
-      {"user": "My child is slow in learning. Can the school help?", "bot": "Yes, schools often provide remedial teaching and learning support sessions."},
-      {"user": "నా బిడ్డకు చదవడంలో కొంత ఆలస్యం ఉంది. పాఠశాల సహాయపడుతుందా?", "bot": "అవును, పాఠశాలలు సాధారణంగా రిమీడియల్ టీచింగ్ మరియు సపోర్ట్ సెషన్లు అందిస్తాయి."},
-      {"user": "Is there any specialist involved?", "bot": "In some schools, special educators or counselors support such students."},
-      {"user": "అలాంటి పిల్లలకు ప్రత్యేక అధ్యాపకులు ఉన్నారా?", "bot": "కొన్ని పాఠశాలలో స్పెషల్ ఎడ్యుకేటర్లు లేదా కౌన్సిలర్లు ఉంటారు."}
+      {
+        "user": "My child is slow in learning. Can the school help?",
+        "bot": "Yes, schools often provide remedial teaching and learning support sessions."
+      },
+      {
+        "user": "నా బిడ్డకు చదవడంలో కొంత ఆలస్యం ఉంది. పాఠశాల సహాయపడుతుందా?",
+        "bot": "అవును, పాఠశాలలు సాధారణంగా రిమీడియల్ టీచింగ్ మరియు సపోర్ట్ సెషన్లు అందిస్తాయి."
+      },
+      {
+        "user": "Is there any specialist involved?",
+        "bot": "In some schools, special educators or counselors support such students."
+      },
+      {
+        "user": "అలాంటి పిల్లలకు ప్రత్యేక అధ్యాపకులు ఉన్నారా?",
+        "bot": "కొన్ని పాఠశాలలో స్పెషల్ ఎడ్యుకేటర్లు లేదా కౌన్సిలర్లు ఉంటారు."
+      }
     ]
   },
   {
     "id": 22,
     "language": "bilingual",
     "conversation": [
-      {"user": "What documents are needed to apply for a government scholarship?", "bot": "Usually you need caste certificate, income certificate, previous marksheet, and bank details."},
-      {"user": "సర్కారు స్కాలర్‌షిప్‌కు అప్లై చేయాలంటే ఏ డాక్యుమెంట్లు కావాలి?", "bot": "సాధారణంగా కుల పత్రం, ఆదాయ పత్రం, గత మార్క్‌షీట్ మరియు బ్యాంక్ వివరాలు అవసరం."},
-      {"user": "How can I apply?", "bot": "You can apply online through the National Scholarship Portal or your state’s website."},
-      {"user": "ఎలా అప్లై చేయాలి?", "bot": "నేషనల్ స్కాలర్‌షిప్ పోర్టల్ లేదా రాష్ట్ర ప్రభుత్వ వెబ్‌సైట్‌లో ఆన్‌లైన్‌లో అప్లై చేయవచ్చు."}
+      {
+        "user": "What documents are needed to apply for a government scholarship?",
+        "bot": "Usually you need caste certificate, income certificate, previous marksheet, and bank details."
+      },
+      {
+        "user": "సర్కారు స్కాలర్‌షిప్‌కు అప్లై చేయాలంటే ఏ డాక్యుమెంట్లు కావాలి?",
+        "bot": "సాధారణంగా కుల పత్రం, ఆదాయ పత్రం, గత మార్క్‌షీట్ మరియు బ్యాంక్ వివరాలు అవసరం."
+      },
+      {
+        "user": "How can I apply?",
+        "bot": "You can apply online through the National Scholarship Portal or your state’s website."
+      },
+      {
+        "user": "ఎలా అప్లై చేయాలి?",
+        "bot": "నేషనల్ స్కాలర్‌షిప్ పోర్టల్ లేదా రాష్ట్ర ప్రభుత్వ వెబ్‌సైట్‌లో ఆన్‌లైన్‌లో అప్లై చేయవచ్చు."
+      }
     ]
   },
   {
     "id": 23,
     "language": "bilingual",
     "conversation": [
-      {"user": "How is student progress assessed under the CCE pattern?", "bot": "CCE includes both formative and summative assessments to monitor overall development."},
-      {"user": "CCE విధానంలో విద్యార్థి అభివృద్ధిని ఎలా అంచనా వేస్తారు?", "bot": "CCE విధానంలో రూపాత్మక, సమాహార పరీక్షలు రెండింటినీ ఉపయోగించి సమగ్ర అభివృద్ధిని పరిశీలిస్తారు."}
+      {
+        "user": "How is student progress assessed under the CCE pattern?",
+        "bot": "CCE includes both formative and summative assessments to monitor overall development."
+      },
+      {
+        "user": "CCE విధానంలో విద్యార్థి అభివృద్ధిని ఎలా అంచనా వేస్తారు?",
+        "bot": "CCE విధానంలో రూపాత్మక, సమాహార పరీక్షలు రెండింటినీ ఉపయోగించి సమగ్ర అభివృద్ధిని పరిశీలిస్తారు."
+      }
     ]
   },
   {
     "id": 24,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can we change from private school to government school mid-year?", "bot": "Yes, but you need to submit a Transfer Certificate and latest progress report."},
-      {"user": "సంవత్సర మధ్యలో ప్రైవేట్ నుండి ప్రభుత్వ పాఠశాలకు మారవచ్చా?", "bot": "అవును, కానీ ట్రాన్స్‌ఫర్ సర్టిఫికేట్ మరియు తాజా ప్రోగ్రెస్ రిపోర్ట్ అవసరం."}
+      {
+        "user": "Can we change from private school to government school mid-year?",
+        "bot": "Yes, but you need to submit a Transfer Certificate and latest progress report."
+      },
+      {
+        "user": "సంవత్సర మధ్యలో ప్రైవేట్ నుండి ప్రభుత్వ పాఠశాలకు మారవచ్చా?",
+        "bot": "అవును, కానీ ట్రాన్స్‌ఫర్ సర్టిఫికేట్ మరియు తాజా ప్రోగ్రెస్ రిపోర్ట్ అవసరం."
+      }
     ]
   },
   {
     "id": 25,
     "language": "bilingual",
     "conversation": [
-      {"user": "Is moral education taught in schools?", "bot": "Yes, many schools include moral stories, value education periods, and activities."},
-      {"user": "నైతిక విద్య పాఠశాలలో బోధించబడుతుందా?", "bot": "అవును, చాలా పాఠశాలల్లో నైతిక కథలు, విలువల పాఠాలు మరియు సంబంధించిన కార్యకలాపాలు ఉంటాయి."}
+      {
+        "user": "Is moral education taught in schools?",
+        "bot": "Yes, many schools include moral stories, value education periods, and activities."
+      },
+      {
+        "user": "నైతిక విద్య పాఠశాలలో బోధించబడుతుందా?",
+        "bot": "అవును, చాలా పాఠశాలల్లో నైతిక కథలు, విలువల పాఠాలు మరియు సంబంధించిన కార్యకలాపాలు ఉంటాయి."
+      }
     ]
   },
   {
     "id": 26,
     "language": "bilingual",
     "conversation": [
-      {"user": "Are parents involved in school improvement?", "bot": "Yes, through Parent-Teacher Associations (PTA), parents participate in decision-making."},
-      {"user": "పాఠశాల అభివృద్ధిలో తల్లిదండ్రుల పాత్ర ఉందా?", "bot": "అవును, తల్లిదండ్రుల సంఘాల ద్వారా వారు అభివృద్ధికి సూచనలు ఇస్తారు."}
+      {
+        "user": "Are parents involved in school improvement?",
+        "bot": "Yes, through Parent-Teacher Associations (PTA), parents participate in decision-making."
+      },
+      {
+        "user": "పాఠశాల అభివృద్ధిలో తల్లిదండ్రుల పాత్ర ఉందా?",
+        "bot": "అవును, తల్లిదండ్రుల సంఘాల ద్వారా వారు అభివృద్ధికి సూచనలు ఇస్తారు."
+      }
     ]
   },
   {
     "id": 27,
     "language": "bilingual",
     "conversation": [
-      {"user": "How can I access old question papers?", "bot": "Many education board websites provide downloadable archives of past question papers."},
-      {"user": "పాత ప్రశ్నాపత్రాలను ఎలా పొందవచ్చు?", "bot": "విద్యా మండలి వెబ్‌సైట్లలో పాత ప్రశ్నాపత్రాల ఆర్కైవ్ అందుబాటులో ఉంటుంది."}
+      {
+        "user": "How can I access old question papers?",
+        "bot": "Many education board websites provide downloadable archives of past question papers."
+      },
+      {
+        "user": "పాత ప్రశ్నాపత్రాలను ఎలా పొందవచ్చు?",
+        "bot": "విద్యా మండలి వెబ్‌సైట్లలో పాత ప్రశ్నాపత్రాల ఆర్కైవ్ అందుబాటులో ఉంటుంది."
+      }
     ]
   },
   {
     "id": 28,
     "language": "bilingual",
     "conversation": [
-      {"user": "Do schools provide menstrual hygiene support?", "bot": "Yes, most government schools provide sanitary pads and awareness programs for girl students."},
-      {"user": "పాఠశాలలు మెన్స్ట్రుయల్ హైజీన్ సపోర్ట్ ఇస్తాయా?", "bot": "అవును, చాలా ప్రభుత్వ పాఠశాలల్లో పిల్లల కోసం సెనిటరీ ప్యాడ్లు మరియు అవగాహన కార్యక్రమాలు నిర్వహిస్తారు."}
+      {
+        "user": "Do schools provide menstrual hygiene support?",
+        "bot": "Yes, most government schools provide sanitary pads and awareness programs for girl students."
+      },
+      {
+        "user": "పాఠశాలలు మెన్స్ట్రుయల్ హైజీన్ సపోర్ట్ ఇస్తాయా?",
+        "bot": "అవును, చాలా ప్రభుత్వ పాఠశాలల్లో పిల్లల కోసం సెనిటరీ ప్యాడ్లు మరియు అవగాహన కార్యక్రమాలు నిర్వహిస్తారు."
+      }
     ]
   },
   {
     "id": 29,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I change my subject stream after 10th?", "bot": "Yes, during intermediate admissions, you can choose from MPC, BiPC, CEC, etc."},
-      {"user": "10వ తరగతి తర్వాత సబ్జెక్ట్ స్ట్రీమ్ మార్చవచ్చా?", "bot": "అవును, ఇంటర్మీడియట్‌లో చేర్పునకు పలు స్ట్రీమ్‌లు ఎంపిక చేసుకోవచ్చు."}
+      {
+        "user": "Can I change my subject stream after 10th?",
+        "bot": "Yes, during intermediate admissions, you can choose from MPC, BiPC, CEC, etc."
+      },
+      {
+        "user": "10వ తరగతి తర్వాత సబ్జెక్ట్ స్ట్రీమ్ మార్చవచ్చా?",
+        "bot": "అవును, ఇంటర్మీడియట్‌లో చేర్పునకు పలు స్ట్రీమ్‌లు ఎంపిక చేసుకోవచ్చు."
+      }
     ]
   },
   {
     "id": 30,
     "language": "bilingual",
     "conversation": [
-      {"user": "What are School Management Committees (SMC)?", "bot": "SMCs include parents, teachers, and local officials who work for school improvement."},
-      {"user": "పాఠశాల నిర్వహణ కమిటీలు అంటే ఏమిటి?", "bot": "పిల్లల తల్లిదండ్రులు, ఉపాధ్యాయులు, స్థానిక అధికారులు కలిసి పాఠశాల అభివృద్ధికి పనిచేస్తారు."}
+      {
+        "user": "What are School Management Committees (SMC)?",
+        "bot": "SMCs include parents, teachers, and local officials who work for school improvement."
+      },
+      {
+        "user": "పాఠశాల నిర్వహణ కమిటీలు అంటే ఏమిటి?",
+        "bot": "పిల్లల తల్లిదండ్రులు, ఉపాధ్యాయులు, స్థానిక అధికారులు కలిసి పాఠశాల అభివృద్ధికి పనిచేస్తారు."
+      }
     ]
   }
 ]

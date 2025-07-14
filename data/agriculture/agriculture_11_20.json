@@ -3,80 +3,140 @@
     "id": 11,
     "language": "bilingual",
     "conversation": [
-      {"user": "What are some organic methods to prevent pest attacks?", "bot": "Neem oil spray, crop rotation, and intercropping help reduce pest infestation naturally."},
-      {"user": "పురుగు దాడిని నివారించడానికి కొన్ని సేంద్రీయ పద్ధతులు ఏమిటి?", "bot": "వేప నూనె స్ప్రే, పంటల మార్పిడి, అంతర్గత పంటలు వాడటం సహజంగా పురుగులు తగ్గిస్తుంది."}
+      {
+        "user": "What are some organic methods to prevent pest attacks?",
+        "bot": "Neem oil spray, crop rotation, and intercropping help reduce pest infestation naturally."
+      },
+      {
+        "user": "పురుగు దాడిని నివారించడానికి కొన్ని సేంద్రీయ పద్ధతులు ఏమిటి?",
+        "bot": "వేప నూనె స్ప్రే, పంటల మార్పిడి, అంతర్గత పంటలు వాడటం సహజంగా పురుగులు తగ్గిస్తుంది."
+      }
     ]
   },
   {
     "id": 12,
     "language": "bilingual",
     "conversation": [
-      {"user": "How often should I water groundnut crops?", "bot": "Water groundnut crops every 7–10 days depending on soil moisture and rainfall."},
-      {"user": "వేరుశనగ పంటలను ఎన్ని రోజులకు ఒక్కసారి నీరు పెట్టాలి?", "bot": "మట్టిలో తేమను బట్టి మరియు వర్షపాతం ఆధారంగా 7–10 రోజులకు ఒకసారి నీరు పెట్టాలి."}
+      {
+        "user": "How often should I water groundnut crops?",
+        "bot": "Water groundnut crops every 7–10 days depending on soil moisture and rainfall."
+      },
+      {
+        "user": "వేరుశనగ పంటలను ఎన్ని రోజులకు ఒక్కసారి నీరు పెట్టాలి?",
+        "bot": "మట్టిలో తేమను బట్టి మరియు వర్షపాతం ఆధారంగా 7–10 రోజులకు ఒకసారి నీరు పెట్టాలి."
+      }
     ]
   },
   {
     "id": 13,
     "language": "bilingual",
     "conversation": [
-      {"user": "Which fertilizer is best for tomato plants?", "bot": "Use a balanced NPK fertilizer like 10-10-10 or 5-10-10 for healthy tomato growth."},
-      {"user": "టమోటా మొక్కలకు ఉత్తమమైన ఎరువు ఏది?", "bot": "టమోటా మొక్కల ఆరోగ్యకరమైన ఎదుగుదలకు 10-10-10 లేదా 5-10-10 వంటి సమతుల్యత కలిగిన ఎన్‌పీకే ఎరువును వాడండి."}
+      {
+        "user": "Which fertilizer is best for tomato plants?",
+        "bot": "Use a balanced NPK fertilizer like 10-10-10 or 5-10-10 for healthy tomato growth."
+      },
+      {
+        "user": "టమోటా మొక్కలకు ఉత్తమమైన ఎరువు ఏది?",
+        "bot": "టమోటా మొక్కల ఆరోగ్యకరమైన ఎదుగుదలకు 10-10-10 లేదా 5-10-10 వంటి సమతుల్యత కలిగిన ఎన్‌పీకే ఎరువును వాడండి."
+      }
     ]
   },
   {
     "id": 14,
     "language": "bilingual",
     "conversation": [
-      {"user": "How to identify nutrient deficiency in crops?", "bot": "Yellowing leaves, stunted growth, and leaf spots are common signs of nutrient deficiency."},
-      {"user": "పంటల్లో పోషక లోపాన్ని ఎలా గుర్తించాలి?", "bot": "ఆకుల పసుపు రంగు, వృద్ధి మందగించడం, ఆకులపై మచ్చలు పోషకాల లోపానికి సంకేతాలు."}
+      {
+        "user": "How to identify nutrient deficiency in crops?",
+        "bot": "Yellowing leaves, stunted growth, and leaf spots are common signs of nutrient deficiency."
+      },
+      {
+        "user": "పంటల్లో పోషక లోపాన్ని ఎలా గుర్తించాలి?",
+        "bot": "ఆకుల పసుపు రంగు, వృద్ధి మందగించడం, ఆకులపై మచ్చలు పోషకాల లోపానికి సంకేతాలు."
+      }
     ]
   },
   {
     "id": 15,
     "language": "bilingual",
     "conversation": [
-      {"user": "What is the ideal sowing time for rabi crops?", "bot": "Rabi crops are usually sown between October and December."},
-      {"user": "రబీ పంటలideal విత్తనకాలం ఎప్పుడు?", "bot": "రబీ పంటలు సాధారణంగా అక్టోబర్ నుండి డిసెంబర్ మధ్యలో విత్తుతారు."}
+      {
+        "user": "What is the ideal sowing time for rabi crops?",
+        "bot": "Rabi crops are usually sown between October and December."
+      },
+      {
+        "user": "రబీ పంటలideal విత్తనకాలం ఎప్పుడు?",
+        "bot": "రబీ పంటలు సాధారణంగా అక్టోబర్ నుండి డిసెంబర్ మధ్యలో విత్తుతారు."
+      }
     ]
   },
   {
     "id": 16,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I mix cow dung with urea?", "bot": "Yes, but apply carefully. Excess nitrogen can harm the soil microbial balance."},
-      {"user": "నేను ఆవు పేడను యూరియా తో కలపవచ్చా?", "bot": "అవును, కానీ జాగ్రత్తగా వేయాలి. ఎక్కువ నైట్రోజన్ మట్టి సూక్ష్మజీవుల సమతుల్యతను దెబ్బతీస్తుంది."}
+      {
+        "user": "Can I mix cow dung with urea?",
+        "bot": "Yes, but apply carefully. Excess nitrogen can harm the soil microbial balance."
+      },
+      {
+        "user": "నేను ఆవు పేడను యూరియా తో కలపవచ్చా?",
+        "bot": "అవును, కానీ జాగ్రత్తగా వేయాలి. ఎక్కువ నైట్రోజన్ మట్టి సూక్ష్మజీవుల సమతుల్యతను దెబ్బతీస్తుంది."
+      }
     ]
   },
   {
     "id": 17,
     "language": "bilingual",
     "conversation": [
-      {"user": "What is the minimum support price (MSP) for wheat?", "bot": "For the current season, MSP for wheat is ₹2,125 per quintal."},
-      {"user": "గోధుమలకు కనిష్ఠ మద్దతు ధర (MSP) ఎంత?", "bot": "ప్రస్తుతం గోధుమలకు MSP రూ. 2,125 క్వింటాలుకు."}
+      {
+        "user": "What is the minimum support price (MSP) for wheat?",
+        "bot": "For the current season, MSP for wheat is ₹2,125 per quintal."
+      },
+      {
+        "user": "గోధుమలకు కనిష్ఠ మద్దతు ధర (MSP) ఎంత?",
+        "bot": "ప్రస్తుతం గోధుమలకు MSP రూ. 2,125 క్వింటాలుకు."
+      }
     ]
   },
   {
     "id": 18,
     "language": "bilingual",
     "conversation": [
-      {"user": "How do I prepare land for cotton cultivation?", "bot": "Plough deeply, ensure proper drainage, and level the field for uniform germination."},
-      {"user": "పత్తి సాగుకు నేల సిద్ధం చేయడం ఎలా?", "bot": "మోటుగా అరవడం, మరిగిన నీరు పోవడం చూసుకోవడం, సమానంగా మొలకలు రావడానికి మైదానాన్ని సమతుల్యం చేయడం అవసరం."}
+      {
+        "user": "How do I prepare land for cotton cultivation?",
+        "bot": "Plough deeply, ensure proper drainage, and level the field for uniform germination."
+      },
+      {
+        "user": "పత్తి సాగుకు నేల సిద్ధం చేయడం ఎలా?",
+        "bot": "మోటుగా అరవడం, మరిగిన నీరు పోవడం చూసుకోవడం, సమానంగా మొలకలు రావడానికి మైదానాన్ని సమతుల్యం చేయడం అవసరం."
+      }
     ]
   },
   {
     "id": 19,
     "language": "bilingual",
     "conversation": [
-      {"user": "Is crop insurance available for banana farmers?", "bot": "Yes, under PMFBY or state schemes, banana farmers can avail insurance for natural calamities."},
-      {"user": "అరటి రైతులకు పంట బీమా అందుబాటులో ఉందా?", "bot": "అవును, ప్రధాన్ మంత్రి ఫసల్ బీమా యోజన లేదా రాష్ట్ర పథకాల ద్వారా అరటి రైతులు ప్రకృతి వైపరీత్యాల కోసం బీమా పొందవచ్చు."}
+      {
+        "user": "Is crop insurance available for banana farmers?",
+        "bot": "Yes, under PMFBY or state schemes, banana farmers can avail insurance for natural calamities."
+      },
+      {
+        "user": "అరటి రైతులకు పంట బీమా అందుబాటులో ఉందా?",
+        "bot": "అవును, ప్రధాన్ మంత్రి ఫసల్ బీమా యోజన లేదా రాష్ట్ర పథకాల ద్వారా అరటి రైతులు ప్రకృతి వైపరీత్యాల కోసం బీమా పొందవచ్చు."
+      }
     ]
   },
   {
     "id": 20,
     "language": "bilingual",
     "conversation": [
-      {"user": "How to increase yield in rice farming?", "bot": "Use certified seeds, timely irrigation, and integrated nutrient management to improve yield."},
-      {"user": "వరి సాగులో దిగుబడిని ఎలా పెంచాలి?", "bot": "ధృవీకరించబడిన విత్తనాలు, సమయానికి నీటిపారుదల, సమగ్ర పోషకాల నిర్వహణను పాటించండి."}
+      {
+        "user": "How to increase yield in rice farming?",
+        "bot": "Use certified seeds, timely irrigation, and integrated nutrient management to improve yield."
+      },
+      {
+        "user": "వరి సాగులో దిగుబడిని ఎలా పెంచాలి?",
+        "bot": "ధృవీకరించబడిన విత్తనాలు, సమయానికి నీటిపారుదల, సమగ్ర పోషకాల నిర్వహణను పాటించండి."
+      }
     ]
   }
 ]

@@ -3,86 +3,164 @@
     "id": 11,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I get admission without TC?", "bot": "Transfer Certificate is mandatory for school admission."},
-      {"user": "TC లేకుండా చేర్పు సాధ్యమా?", "bot": "పాఠశాలలో చేరేందుకు ట్రాన్స్‌ఫర్ సర్టిఫికేట్ తప్పనిసరి."},
-      {"user": "Where should I get the TC from?", "bot": "You must collect it from your previous school."},
-      {"user": "TC ని ఎక్కడి నుంచి తీసుకోవాలి?", "bot": "మీ గత పాఠశాల నుంచే తీసుకోవాలి."}
+      {
+        "user": "Can I get admission without TC?",
+        "bot": "Transfer Certificate is mandatory for school admission."
+      },
+      {
+        "user": "TC లేకుండా చేర్పు సాధ్యమా?",
+        "bot": "పాఠశాలలో చేరేందుకు ట్రాన్స్‌ఫర్ సర్టిఫికేట్ తప్పనిసరి."
+      },
+      {
+        "user": "Where should I get the TC from?",
+        "bot": "You must collect it from your previous school."
+      },
+      {
+        "user": "TC ని ఎక్కడి నుంచి తీసుకోవాలి?",
+        "bot": "మీ గత పాఠశాల నుంచే తీసుకోవాలి."
+      }
     ]
   },
   {
     "id": 12,
     "language": "bilingual",
     "conversation": [
-      {"user": "Are private school fees regulated by the government?", "bot": "In some states, private school fees are regulated through district authorities."},
-      {"user": "ప్రైవేట్ పాఠశాల ఫీజులను ప్రభుత్వం నియంత్రిస్తుందా?", "bot": "కొన్ని రాష్ట్రాల్లో జిల్లా అధికారుల ద్వారా ఫీజులు నియంత్రించబడతాయి."},
-      {"user": "Where can I complain about overcharging?", "bot": "You can file a complaint at the District Education Office."},
-      {"user": "అధికంగా వసూలు చేస్తే ఎక్కడ ఫిర్యాదు చేయాలి?", "bot": "జిల్లా విద్యా కార్యాలయంలో ఫిర్యాదు చేయవచ్చు."}
+      {
+        "user": "Are private school fees regulated by the government?",
+        "bot": "In some states, private school fees are regulated through district authorities."
+      },
+      {
+        "user": "ప్రైవేట్ పాఠశాల ఫీజులను ప్రభుత్వం నియంత్రిస్తుందా?",
+        "bot": "కొన్ని రాష్ట్రాల్లో జిల్లా అధికారుల ద్వారా ఫీజులు నియంత్రించబడతాయి."
+      },
+      {
+        "user": "Where can I complain about overcharging?",
+        "bot": "You can file a complaint at the District Education Office."
+      },
+      {
+        "user": "అధికంగా వసూలు చేస్తే ఎక్కడ ఫిర్యాదు చేయాలి?",
+        "bot": "జిల్లా విద్యా కార్యాలయంలో ఫిర్యాదు చేయవచ్చు."
+      }
     ]
   },
   {
     "id": 13,
     "language": "bilingual",
     "conversation": [
-      {"user": "Is vocational training available in government schools?", "bot": "Yes, many high schools offer vocational courses like tailoring, computer basics, and carpentry."},
-      {"user": "ప్రభుత్వ పాఠశాలలో వృత్తిపరమైన శిక్షణ ఉందా?", "bot": "అవును, పలుచోట్ల హై స్కూళ్లలో టైలరింగ్, కంప్యూటర్ బేసిక్స్, మీసం వంటి కోర్సులు అందించబడతాయి."}
+      {
+        "user": "Is vocational training available in government schools?",
+        "bot": "Yes, many high schools offer vocational courses like tailoring, computer basics, and carpentry."
+      },
+      {
+        "user": "ప్రభుత్వ పాఠశాలలో వృత్తిపరమైన శిక్షణ ఉందా?",
+        "bot": "అవును, పలుచోట్ల హై స్కూళ్లలో టైలరింగ్, కంప్యూటర్ బేసిక్స్, మీసం వంటి కోర్సులు అందించబడతాయి."
+      }
     ]
   },
   {
     "id": 14,
     "language": "bilingual",
     "conversation": [
-      {"user": "How can I check my SSC results?", "bot": "Visit the official education board website and enter your hall ticket number."},
-      {"user": "SSC ఫలితాలు ఎలా చూసుకోవాలి?", "bot": "విద్యా మండలి అధికారిక వెబ్‌సైట్‌కి వెళ్లి హాల్ టికెట్ నంబర్ ఇచ్చి చూడవచ్చు."},
-      {"user": "Can I get a printed marksheet?", "bot": "Yes, your school will provide the printed marksheet after results."},
-      {"user": "ప్రింటెడ్ మార్క్‌షీట్ ఎక్కడ లభిస్తుంది?", "bot": "ఫలితాల అనంతరం పాఠశాలే అందిస్తుంది."}
+      {
+        "user": "How can I check my SSC results?",
+        "bot": "Visit the official education board website and enter your hall ticket number."
+      },
+      {
+        "user": "SSC ఫలితాలు ఎలా చూసుకోవాలి?",
+        "bot": "విద్యా మండలి అధికారిక వెబ్‌సైట్‌కి వెళ్లి హాల్ టికెట్ నంబర్ ఇచ్చి చూడవచ్చు."
+      },
+      {
+        "user": "Can I get a printed marksheet?",
+        "bot": "Yes, your school will provide the printed marksheet after results."
+      },
+      {
+        "user": "ప్రింటెడ్ మార్క్‌షీట్ ఎక్కడ లభిస్తుంది?",
+        "bot": "ఫలితాల అనంతరం పాఠశాలే అందిస్తుంది."
+      }
     ]
   },
   {
     "id": 15,
     "language": "bilingual",
     "conversation": [
-      {"user": "Is there any mobile app for learning in Telugu medium?", "bot": "Yes, apps like DIKSHA offer content in Telugu for various classes."},
-      {"user": "తెలుగు మాధ్యమం కోసం లెర్నింగ్ మొబైల్ యాప్ ఏదైనా ఉందా?", "bot": "అవును, DIKSHA వంటి యాప్‌లు వివిధ తరగతులకు తెలుగులో పాఠ్యాంశాలు అందిస్తాయి."}
+      {
+        "user": "Is there any mobile app for learning in Telugu medium?",
+        "bot": "Yes, apps like DIKSHA offer content in Telugu for various classes."
+      },
+      {
+        "user": "తెలుగు మాధ్యమం కోసం లెర్నింగ్ మొబైల్ యాప్ ఏదైనా ఉందా?",
+        "bot": "అవును, DIKSHA వంటి యాప్‌లు వివిధ తరగతులకు తెలుగులో పాఠ్యాంశాలు అందిస్తాయి."
+      }
     ]
   },
   {
     "id": 16,
     "language": "bilingual",
     "conversation": [
-      {"user": "What are bridge courses?", "bot": "Bridge courses help students catch up on missed learning due to school closures or transfers."},
-      {"user": "బ్రిడ్జ్ కోర్సులు అంటే ఏమిటి?", "bot": "పాఠశాల మూసివేత లేదా బదిలీ వల్ల కోల్పోయిన విద్యను తిరిగి పొందేందుకు బ్రిడ్జ్ కోర్సులు ఉపయుక్తం."}
+      {
+        "user": "What are bridge courses?",
+        "bot": "Bridge courses help students catch up on missed learning due to school closures or transfers."
+      },
+      {
+        "user": "బ్రిడ్జ్ కోర్సులు అంటే ఏమిటి?",
+        "bot": "పాఠశాల మూసివేత లేదా బదిలీ వల్ల కోల్పోయిన విద్యను తిరిగి పొందేందుకు బ్రిడ్జ్ కోర్సులు ఉపయుక్తం."
+      }
     ]
   },
   {
     "id": 17,
     "language": "bilingual",
     "conversation": [
-      {"user": "Who approves school textbooks in Telangana?", "bot": "SCERT Telangana is the authority for preparing and approving textbooks."},
-      {"user": "తెలంగాణలో పాఠ్యపుస్తకాలను ఎవరు ఆమోదిస్తారు?", "bot": "SCERT తెలంగాణే పుస్తకాలను రూపొందించి ఆమోదిస్తుంది."}
+      {
+        "user": "Who approves school textbooks in Telangana?",
+        "bot": "SCERT Telangana is the authority for preparing and approving textbooks."
+      },
+      {
+        "user": "తెలంగాణలో పాఠ్యపుస్తకాలను ఎవరు ఆమోదిస్తారు?",
+        "bot": "SCERT తెలంగాణే పుస్తకాలను రూపొందించి ఆమోదిస్తుంది."
+      }
     ]
   },
   {
     "id": 18,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I write exams in Telugu medium if I studied in English medium?", "bot": "No, you must write in the medium in which you are enrolled."},
-      {"user": "ఇంగ్లీష్ మాధ్యమంలో చదివితే, పరీక్షలు తెలుగులో రాయచ్చా?", "bot": "కాదు, మీరు నమోదు అయిన మాధ్యమం నుంచే రాయాలి."}
+      {
+        "user": "Can I write exams in Telugu medium if I studied in English medium?",
+        "bot": "No, you must write in the medium in which you are enrolled."
+      },
+      {
+        "user": "ఇంగ్లీష్ మాధ్యమంలో చదివితే, పరీక్షలు తెలుగులో రాయచ్చా?",
+        "bot": "కాదు, మీరు నమోదు అయిన మాధ్యమం నుంచే రాయాలి."
+      }
     ]
   },
   {
     "id": 19,
     "language": "bilingual",
     "conversation": [
-      {"user": "How is attendance tracked in schools?", "bot": "Teachers maintain daily attendance registers and submit data monthly."},
-      {"user": "పాఠశాలలో హాజరు ఎలా నమోదు చేస్తారు?", "bot": "గురువులు ప్రతిరోజూ హాజరు రిజిస్టర్ నిర్వహించి నెలసరి డేటా సమర్పిస్తారు."}
+      {
+        "user": "How is attendance tracked in schools?",
+        "bot": "Teachers maintain daily attendance registers and submit data monthly."
+      },
+      {
+        "user": "పాఠశాలలో హాజరు ఎలా నమోదు చేస్తారు?",
+        "bot": "గురువులు ప్రతిరోజూ హాజరు రిజిస్టర్ నిర్వహించి నెలసరి డేటా సమర్పిస్తారు."
+      }
     ]
   },
   {
     "id": 20,
     "language": "bilingual",
     "conversation": [
-      {"user": "Are there any free online courses for high school students?", "bot": "Yes, platforms like NPTEL and SWAYAM offer free courses for school students too."},
-      {"user": "హై స్కూల్ విద్యార్థుల కోసం ఉచిత ఆన్‌లైన్ కోర్సులు ఏమైనా ఉన్నాయా?", "bot": "అవును, NPTEL, SWAYAM వేదికల ద్వారా హై స్కూల్ విద్యార్థులకు ఉచిత కోర్సులు లభ్యమవుతాయి."}
+      {
+        "user": "Are there any free online courses for high school students?",
+        "bot": "Yes, platforms like NPTEL and SWAYAM offer free courses for school students too."
+      },
+      {
+        "user": "హై స్కూల్ విద్యార్థుల కోసం ఉచిత ఆన్‌లైన్ కోర్సులు ఏమైనా ఉన్నాయా?",
+        "bot": "అవును, NPTEL, SWAYAM వేదికల ద్వారా హై స్కూల్ విద్యార్థులకు ఉచిత కోర్సులు లభ్యమవుతాయి."
+      }
     ]
   }
 ]

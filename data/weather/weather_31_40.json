@@ -1,9 +1,8 @@
 [
   {
     "id": "weather_031",
-    "topic": "Lightning Safety",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "What should I do during a thunderstorm with lightning?",
         "bot": "మెరుపు మేకలతో కూడిన పిడుగుల సమయంలో నేను ఏమి చేయాలి?"
@@ -16,9 +15,8 @@
   },
   {
     "id": "weather_032",
-    "topic": "Temperature vs Humidity",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "Why does it feel hotter when humidity is high?",
         "bot": "ఆర్ద్రత ఎక్కువగా ఉన్నప్పుడు ఎందుకు ఎక్కువ వేడి అనిపిస్తుంది?"
@@ -31,9 +29,8 @@
   },
   {
     "id": "weather_033",
-    "topic": "Foggy Conditions",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "Can flights be delayed due to fog?",
         "bot": "మబ్బు కారణంగా విమానాలు ఆలస్యమవుతాయా?"
@@ -46,9 +43,8 @@
   },
   {
     "id": "weather_034",
-    "topic": "UV Index Info",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "What is the UV index today and should I wear sunscreen?",
         "bot": "ఈరోజు UV సూచిక ఎంత ఉంది? నేను సన్‌స్క్రీన్ వాడాలా?"
@@ -61,9 +57,8 @@
   },
   {
     "id": "weather_035",
-    "topic": "Cyclone Alert Level",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "What is a red alert during a cyclone?",
         "bot": "తుఫాను సమయంలో రెడ్ అలర్ట్ అంటే ఏమిటి?"
@@ -76,9 +71,8 @@
   },
   {
     "id": "weather_036",
-    "topic": "Cloudburst Meaning",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "What is a cloudburst?",
         "bot": "క్లౌడ్‌బస్ట్ అంటే ఏమిటి?"
@@ -91,9 +85,8 @@
   },
   {
     "id": "weather_037",
-    "topic": "Seasonal Allergy Advice",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "I suffer from seasonal allergies. How can I prevent them?",
         "bot": "నేను ఋతుపవనాల అలర్జీకి గురవుతున్నాను. దీన్ని ఎలా నివారించాలి?"
@@ -106,9 +99,8 @@
   },
   {
     "id": "weather_038",
-    "topic": "Sunburn Prevention",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "How do I prevent sunburn during heatwaves?",
         "bot": "తీవ్రమైన ఎండల సమయంలో సన్‌బర్న్‌ని ఎలా నివారించాలి?"
@@ -121,9 +113,8 @@
   },
   {
     "id": "weather_039",
-    "topic": "Rainwater Harvesting",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "Can I collect rainwater at home?",
         "bot": "ఇంట్లో వర్షపు నీటిని నిల్వ చేసుకోవచ్చా?"
@@ -136,9 +127,8 @@
   },
   {
     "id": "weather_040",
-    "topic": "Heatstroke Symptoms",
     "language": "en-te",
-    "turns": [
+    "conversation": [
       {
         "user": "What are the signs of heatstroke?",
         "bot": "హీట్‌స్ట్రోక్ లక్షణాలు ఏమిటి?"

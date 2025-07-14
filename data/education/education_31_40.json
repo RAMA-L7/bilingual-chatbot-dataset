@@ -3,90 +3,180 @@
     "id": 31,
     "language": "bilingual",
     "conversation": [
-      {"user": "My son is dyslexic. Can he study in regular school?", "bot": "Yes, inclusive education policies allow children with learning difficulties to attend mainstream schools."},
-      {"user": "నా కొడుకు డిస్లెక్సియా సమస్యతో బాధపడుతున్నాడు. సాధారణ పాఠశాలలో చదవచ్చా?", "bot": "అవును, ఇన్‌క్లూజివ్ ఎడ్యుకేషన్ విధానం ప్రకారం అలాంటి పిల్లలు సాధారణ పాఠశాలలో చదవొచ్చు."},
-      {"user": "Will he get any special support?", "bot": "Yes, many schools provide resource rooms or special educators to assist such students."},
-      {"user": "అలాంటి పిల్లలకు ప్రత్యేక సహాయం ఉంటుందా?", "bot": "అవును, చాలాసార్లు పాఠశాలల్లో రిసోర్స్ రూమ్ లేదా ప్రత్యేక ఉపాధ్యాయులు ఉంటారు."}
+      {
+        "user": "My son is dyslexic. Can he study in regular school?",
+        "bot": "Yes, inclusive education policies allow children with learning difficulties to attend mainstream schools."
+      },
+      {
+        "user": "నా కొడుకు డిస్లెక్సియా సమస్యతో బాధపడుతున్నాడు. సాధారణ పాఠశాలలో చదవచ్చా?",
+        "bot": "అవును, ఇన్‌క్లూజివ్ ఎడ్యుకేషన్ విధానం ప్రకారం అలాంటి పిల్లలు సాధారణ పాఠశాలలో చదవొచ్చు."
+      },
+      {
+        "user": "Will he get any special support?",
+        "bot": "Yes, many schools provide resource rooms or special educators to assist such students."
+      },
+      {
+        "user": "అలాంటి పిల్లలకు ప్రత్యేక సహాయం ఉంటుందా?",
+        "bot": "అవును, చాలాసార్లు పాఠశాలల్లో రిసోర్స్ రూమ్ లేదా ప్రత్యేక ఉపాధ్యాయులు ఉంటారు."
+      }
     ]
   },
   {
     "id": 32,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I take an open school exam instead of regular classes?", "bot": "Yes, the National Institute of Open Schooling (NIOS) offers flexible learning and certification."},
-      {"user": "సాధారణ తరగతులకు బదులుగా ఓపెన్ స్కూల్ పరీక్ష రాయచ్చా?", "bot": "అవును, నేషనల్ ఇన్స్టిట్యూట్ ఆఫ్ ఓపెన్ స్కూలింగ్ (NIOS) ద్వారా మీకు సరళమైన విద్యా విధానం లభిస్తుంది."},
-      {"user": "Is this certificate valid for jobs or further studies?", "bot": "Absolutely. NIOS is recognized by most universities and job boards."},
-      {"user": "ఈ సర్టిఫికేట్ ఉద్యోగాలు లేదా హయ్యర్ స్టడీస్ కోసం చెల్లుబాటు అవుతుందా?", "bot": "ఖచ్చితంగా అవుతుంది. చాలా విశ్వవిద్యాలయాలు మరియు జాబ్ బోర్డులు దీన్ని గుర్తిస్తాయి."}
+      {
+        "user": "Can I take an open school exam instead of regular classes?",
+        "bot": "Yes, the National Institute of Open Schooling (NIOS) offers flexible learning and certification."
+      },
+      {
+        "user": "సాధారణ తరగతులకు బదులుగా ఓపెన్ స్కూల్ పరీక్ష రాయచ్చా?",
+        "bot": "అవును, నేషనల్ ఇన్స్టిట్యూట్ ఆఫ్ ఓపెన్ స్కూలింగ్ (NIOS) ద్వారా మీకు సరళమైన విద్యా విధానం లభిస్తుంది."
+      },
+      {
+        "user": "Is this certificate valid for jobs or further studies?",
+        "bot": "Absolutely. NIOS is recognized by most universities and job boards."
+      },
+      {
+        "user": "ఈ సర్టిఫికేట్ ఉద్యోగాలు లేదా హయ్యర్ స్టడీస్ కోసం చెల్లుబాటు అవుతుందా?",
+        "bot": "ఖచ్చితంగా అవుతుంది. చాలా విశ్వవిద్యాలయాలు మరియు జాబ్ బోర్డులు దీన్ని గుర్తిస్తాయి."
+      }
     ]
   },
   {
     "id": 33,
     "language": "bilingual",
     "conversation": [
-      {"user": "What is digital learning in schools?", "bot": "It involves using tablets, smart classes, online content, and apps to teach students."},
-      {"user": "డిజిటల్ లెర్నింగ్ అంటే ఏమిటి?", "bot": "ఇది ట్యాబ్లెట్లు, స్మార్ట్ క్లాస్‌లు, ఆన్‌లైన్ కంటెంట్ మరియు యాప్‌లను ఉపయోగించి బోధించడాన్ని సూచిస్తుంది."},
-      {"user": "Do government schools use these?", "bot": "Yes, under Digital India and ICT schemes, many schools are adopting smart learning tools."},
-      {"user": "ప్రభుత్వ పాఠశాలల్లో కూడా ఇవి వాడతారా?", "bot": "అవును, డిజిటల్ ఇండియా మరియు ICT పథకాల ద్వారా చాలా పాఠశాలల్లో వీటిని ప్రవేశపెట్టారు."}
+      {
+        "user": "What is digital learning in schools?",
+        "bot": "It involves using tablets, smart classes, online content, and apps to teach students."
+      },
+      {
+        "user": "డిజిటల్ లెర్నింగ్ అంటే ఏమిటి?",
+        "bot": "ఇది ట్యాబ్లెట్లు, స్మార్ట్ క్లాస్‌లు, ఆన్‌లైన్ కంటెంట్ మరియు యాప్‌లను ఉపయోగించి బోధించడాన్ని సూచిస్తుంది."
+      },
+      {
+        "user": "Do government schools use these?",
+        "bot": "Yes, under Digital India and ICT schemes, many schools are adopting smart learning tools."
+      },
+      {
+        "user": "ప్రభుత్వ పాఠశాలల్లో కూడా ఇవి వాడతారా?",
+        "bot": "అవును, డిజిటల్ ఇండియా మరియు ICT పథకాల ద్వారా చాలా పాఠశాలల్లో వీటిని ప్రవేశపెట్టారు."
+      }
     ]
   },
   {
     "id": 34,
     "language": "bilingual",
     "conversation": [
-      {"user": "What happens if my child fails in school?", "bot": "NEP 2020 discourages detention up to Grade 8. Instead, remedial learning is provided."},
-      {"user": "నా బిడ్డ పాఠశాలలో ఫెయిల్ అయితే ఏమవుతుంది?", "bot": "NEP 2020 ప్రకారం 8వ తరగతి వరకు ఫెయిల్ అనే కాన్సెప్ట్ లేదు. బదులుగా రిమీడియల్ బోధన ఇస్తారు."},
-      {"user": "What about higher classes?", "bot": "In higher grades, exams matter more, but support is still available."}
+      {
+        "user": "What happens if my child fails in school?",
+        "bot": "NEP 2020 discourages detention up to Grade 8. Instead, remedial learning is provided."
+      },
+      {
+        "user": "నా బిడ్డ పాఠశాలలో ఫెయిల్ అయితే ఏమవుతుంది?",
+        "bot": "NEP 2020 ప్రకారం 8వ తరగతి వరకు ఫెయిల్ అనే కాన్సెప్ట్ లేదు. బదులుగా రిమీడియల్ బోధన ఇస్తారు."
+      },
+      {
+        "user": "What about higher classes?",
+        "bot": "In higher grades, exams matter more, but support is still available."
+      }
     ]
   },
   {
     "id": 35,
     "language": "bilingual",
     "conversation": [
-      {"user": "How can I get my child admitted in Kendriya Vidyalaya?", "bot": "Apply online at kvsonlineadmission.kvs.gov.in during the admission window."},
-      {"user": "కేంద్ర విద్యాలయలో అడ్మిషన్ ఎలా పొందాలి?", "bot": "kvsonlineadmission.kvs.gov.in వెబ్‌సైట్‌లో అడ్మిషన్ విండో సమయంలో అప్లై చేయాలి."},
-      {"user": "Are there preferences?", "bot": "Yes, children of central government employees get priority."}
+      {
+        "user": "How can I get my child admitted in Kendriya Vidyalaya?",
+        "bot": "Apply online at kvsonlineadmission.kvs.gov.in during the admission window."
+      },
+      {
+        "user": "కేంద్ర విద్యాలయలో అడ్మిషన్ ఎలా పొందాలి?",
+        "bot": "kvsonlineadmission.kvs.gov.in వెబ్‌సైట్‌లో అడ్మిషన్ విండో సమయంలో అప్లై చేయాలి."
+      },
+      {
+        "user": "Are there preferences?",
+        "bot": "Yes, children of central government employees get priority."
+      }
     ]
   },
   {
     "id": 36,
     "language": "bilingual",
     "conversation": [
-      {"user": "How are students graded in CBSE?", "bot": "CBSE uses a grading scale from A1 to E, based on marks obtained."},
-      {"user": "CBSEలో విద్యార్థులను ఎలా గ్రేడ్ చేస్తారు?", "bot": "CBSE మార్కుల ఆధారంగా A1 నుండి E వరకు గ్రేడింగ్ స్కేలు ఉపయోగిస్తుంది."},
-      {"user": "Is attendance considered?", "bot": "Yes, minimum attendance of 75% is mandatory to appear in exams."}
+      {
+        "user": "How are students graded in CBSE?",
+        "bot": "CBSE uses a grading scale from A1 to E, based on marks obtained."
+      },
+      {
+        "user": "CBSEలో విద్యార్థులను ఎలా గ్రేడ్ చేస్తారు?",
+        "bot": "CBSE మార్కుల ఆధారంగా A1 నుండి E వరకు గ్రేడింగ్ స్కేలు ఉపయోగిస్తుంది."
+      },
+      {
+        "user": "Is attendance considered?",
+        "bot": "Yes, minimum attendance of 75% is mandatory to appear in exams."
+      }
     ]
   },
   {
     "id": 37,
     "language": "bilingual",
     "conversation": [
-      {"user": "What is National Digital Library of India?", "bot": "It’s an online repository of books, journals, and academic materials for students of all levels."},
-      {"user": "నేషనల్ డిజిటల్ లైబ్రరీ ఆఫ్ ఇండియా అంటే ఏమిటి?", "bot": "ఇది విద్యార్థుల కోసం పుస్తకాలు, జర్నల్స్ మరియు అకడమిక్ మెటీరియల్‌ల ఆన్‌లైన్ భాండాగారం."},
-      {"user": "How to access it?", "bot": "Just register at ndl.iitkgp.ac.in for free access."}
+      {
+        "user": "What is National Digital Library of India?",
+        "bot": "It’s an online repository of books, journals, and academic materials for students of all levels."
+      },
+      {
+        "user": "నేషనల్ డిజిటల్ లైబ్రరీ ఆఫ్ ఇండియా అంటే ఏమిటి?",
+        "bot": "ఇది విద్యార్థుల కోసం పుస్తకాలు, జర్నల్స్ మరియు అకడమిక్ మెటీరియల్‌ల ఆన్‌లైన్ భాండాగారం."
+      },
+      {
+        "user": "How to access it?",
+        "bot": "Just register at ndl.iitkgp.ac.in for free access."
+      }
     ]
   },
   {
     "id": 38,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can school fees be paid online?", "bot": "Yes, many schools now provide online portals or UPI payment options."},
-      {"user": "పాఠశాల ఫీజు ఆన్‌లైన్‌లో చెల్లించచ్చా?", "bot": "అవును, చాలా పాఠశాలలు ఇప్పుడు ఆన్‌లైన్ పోర్టల్స్ లేదా UPI చెల్లింపు మార్గాలను అందిస్తున్నాయి."}
+      {
+        "user": "Can school fees be paid online?",
+        "bot": "Yes, many schools now provide online portals or UPI payment options."
+      },
+      {
+        "user": "పాఠశాల ఫీజు ఆన్‌లైన్‌లో చెల్లించచ్చా?",
+        "bot": "అవును, చాలా పాఠశాలలు ఇప్పుడు ఆన్‌లైన్ పోర్టల్స్ లేదా UPI చెల్లింపు మార్గాలను అందిస్తున్నాయి."
+      }
     ]
   },
   {
     "id": 39,
     "language": "bilingual",
     "conversation": [
-      {"user": "Are there free coaching options for NEET or JEE?", "bot": "Yes, programs like Super 100 and some NGOs offer free coaching for meritorious students."},
-      {"user": "NEET లేదా JEE కోసం ఉచిత కోచింగ్ ఎంపికలున్నాయా?", "bot": "అవును, Super 100 వంటి పథకాలు మరియు కొన్ని స్వచ్ఛంద సంస్థలు ప్రతిభావంతులైన విద్యార్థులకు ఉచిత కోచింగ్ అందిస్తాయి."}
+      {
+        "user": "Are there free coaching options for NEET or JEE?",
+        "bot": "Yes, programs like Super 100 and some NGOs offer free coaching for meritorious students."
+      },
+      {
+        "user": "NEET లేదా JEE కోసం ఉచిత కోచింగ్ ఎంపికలున్నాయా?",
+        "bot": "అవును, Super 100 వంటి పథకాలు మరియు కొన్ని స్వచ్ఛంద సంస్థలు ప్రతిభావంతులైన విద్యార్థులకు ఉచిత కోచింగ్ అందిస్తాయి."
+      }
     ]
   },
   {
     "id": 40,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can parents track student attendance online?", "bot": "Yes, many schools now offer parent apps where attendance and progress reports can be viewed."},
-      {"user": "తల్లిదండ్రులు విద్యార్థి హాజరు ఆన్‌లైన్‌లో ట్రాక్ చేయగలరా?", "bot": "అవును, చాలా పాఠశాలలు ఇప్పుడు తల్లిదండ్రుల యాప్‌లను అందిస్తున్నాయి, వాటిలో హాజరు మరియు అభివృద్ధి నివేదికలు చూడవచ్చు."}
+      {
+        "user": "Can parents track student attendance online?",
+        "bot": "Yes, many schools now offer parent apps where attendance and progress reports can be viewed."
+      },
+      {
+        "user": "తల్లిదండ్రులు విద్యార్థి హాజరు ఆన్‌లైన్‌లో ట్రాక్ చేయగలరా?",
+        "bot": "అవును, చాలా పాఠశాలలు ఇప్పుడు తల్లిదండ్రుల యాప్‌లను అందిస్తున్నాయి, వాటిలో హాజరు మరియు అభివృద్ధి నివేదికలు చూడవచ్చు."
+      }
     ]
   }
 ]

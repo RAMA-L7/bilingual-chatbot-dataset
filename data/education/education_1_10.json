@@ -3,80 +3,140 @@
     "id": 1,
     "language": "bilingual",
     "conversation": [
-      {"user": "What is the school timing?", "bot": "School runs from 9 AM to 4 PM."},
-      {"user": "పాఠశాల సమయం ఎంత?", "bot": "పాఠశాల ఉదయం 9 గంటల నుంచి సాయంత్రం 4 గంటల వరకు ఉంటుంది."}
+      {
+        "user": "What is the school timing?",
+        "bot": "School runs from 9 AM to 4 PM."
+      },
+      {
+        "user": "పాఠశాల సమయం ఎంత?",
+        "bot": "పాఠశాల ఉదయం 9 గంటల నుంచి సాయంత్రం 4 గంటల వరకు ఉంటుంది."
+      }
     ]
   },
   {
     "id": 2,
     "language": "bilingual",
     "conversation": [
-      {"user": "How can I apply for a scholarship?", "bot": "You can apply online through the education department website."},
-      {"user": "నేడు స్కాలర్‌షిప్ ఎలా దరఖాస్తు చేయాలి?", "bot": "మీరు విద్యాశాఖ వెబ్‌సైట్‌లో ఆన్‌లైన్ ద్వారా దరఖాస్తు చేయవచ్చు."}
+      {
+        "user": "How can I apply for a scholarship?",
+        "bot": "You can apply online through the education department website."
+      },
+      {
+        "user": "నేడు స్కాలర్‌షిప్ ఎలా దరఖాస్తు చేయాలి?",
+        "bot": "మీరు విద్యాశాఖ వెబ్‌సైట్‌లో ఆన్‌లైన్ ద్వారా దరఖాస్తు చేయవచ్చు."
+      }
     ]
   },
   {
     "id": 3,
     "language": "bilingual",
     "conversation": [
-      {"user": "Is mid-day meal available at school?", "bot": "Yes, students receive a nutritious meal at lunch time."},
-      {"user": "పాఠశాలలో మధ్యాహ్న భోజనం ఉందా?", "bot": "అవును, విద్యార్థులకు మధ్యాహ్నం ఆరోగ్యకరమైన భోజనం లభిస్తుంది."}
+      {
+        "user": "Is mid-day meal available at school?",
+        "bot": "Yes, students receive a nutritious meal at lunch time."
+      },
+      {
+        "user": "పాఠశాలలో మధ్యాహ్న భోజనం ఉందా?",
+        "bot": "అవును, విద్యార్థులకు మధ్యాహ్నం ఆరోగ్యకరమైన భోజనం లభిస్తుంది."
+      }
     ]
   },
   {
     "id": 4,
     "language": "bilingual",
     "conversation": [
-      {"user": "When will exams start?", "bot": "The annual exams start in March."},
-      {"user": "పరీక్షలు ఎప్పుడు ప్రారంభమవుతాయి?", "bot": "సంవత్సరాంత పరీక్షలు మార్చి నెలలో ప్రారంభమవుతాయి."}
+      {
+        "user": "When will exams start?",
+        "bot": "The annual exams start in March."
+      },
+      {
+        "user": "పరీక్షలు ఎప్పుడు ప్రారంభమవుతాయి?",
+        "bot": "సంవత్సరాంత పరీక్షలు మార్చి నెలలో ప్రారంభమవుతాయి."
+      }
     ]
   },
   {
     "id": 5,
     "language": "bilingual",
     "conversation": [
-      {"user": "What documents are required for school admission?", "bot": "You need birth certificate, Aadhar, and previous marksheet."},
-      {"user": "పాఠశాల చేర్పుకు ఏ డాక్యుమెంట్లు అవసరం?", "bot": "పుట్టిన సర్టిఫికెట్, ఆధార్, మరియు గత మార్కులు అవసరం."}
+      {
+        "user": "What documents are required for school admission?",
+        "bot": "You need birth certificate, Aadhar, and previous marksheet."
+      },
+      {
+        "user": "పాఠశాల చేర్పుకు ఏ డాక్యుమెంట్లు అవసరం?",
+        "bot": "పుట్టిన సర్టిఫికెట్, ఆధార్, మరియు గత మార్కులు అవసరం."
+      }
     ]
   },
   {
     "id": 6,
     "language": "bilingual",
     "conversation": [
-      {"user": "Which subjects are taught in Class 10?", "bot": "Maths, Science, Social, English, and Telugu are taught."},
-      {"user": "10వ తరగతిలో ఏయే పాఠాలు ఉంటాయి?", "bot": "గణితం, సైన్స్, సోషల్, ఇంగ్లీష్, మరియు తెలుగు నేర్పబడతాయి."}
+      {
+        "user": "Which subjects are taught in Class 10?",
+        "bot": "Maths, Science, Social, English, and Telugu are taught."
+      },
+      {
+        "user": "10వ తరగతిలో ఏయే పాఠాలు ఉంటాయి?",
+        "bot": "గణితం, సైన్స్, సోషల్, ఇంగ్లీష్, మరియు తెలుగు నేర్పబడతాయి."
+      }
     ]
   },
   {
     "id": 7,
     "language": "bilingual",
     "conversation": [
-      {"user": "Can I get a transfer certificate online?", "bot": "No, you must collect it from the school office."},
-      {"user": "ట్రాన్స్ఫర్ సర్టిఫికేట్ ఆన్‌లైన్‌లో పొందవచ్చా?", "bot": "కాదు, మీరు పాఠశాల కార్యాలయం నుండి స్వయంగా తీసుకోవాలి."}
+      {
+        "user": "Can I get a transfer certificate online?",
+        "bot": "No, you must collect it from the school office."
+      },
+      {
+        "user": "ట్రాన్స్ఫర్ సర్టిఫికేట్ ఆన్‌లైన్‌లో పొందవచ్చా?",
+        "bot": "కాదు, మీరు పాఠశాల కార్యాలయం నుండి స్వయంగా తీసుకోవాలి."
+      }
     ]
   },
   {
     "id": 8,
     "language": "bilingual",
     "conversation": [
-      {"user": "Do government schools provide free uniforms?", "bot": "Yes, one set of uniform is given annually to students."},
-      {"user": "ప్రభుత్వ పాఠశాలలు ఉచిత యూనిఫాంలు ఇస్తాయా?", "bot": "అవును, విద్యార్థులకు ప్రతి సంవత్సరం ఒక సెట్లో యూనిఫాం లభిస్తుంది."}
+      {
+        "user": "Do government schools provide free uniforms?",
+        "bot": "Yes, one set of uniform is given annually to students."
+      },
+      {
+        "user": "ప్రభుత్వ పాఠశాలలు ఉచిత యూనిఫాంలు ఇస్తాయా?",
+        "bot": "అవును, విద్యార్థులకు ప్రతి సంవత్సరం ఒక సెట్లో యూనిఫాం లభిస్తుంది."
+      }
     ]
   },
   {
     "id": 9,
     "language": "bilingual",
     "conversation": [
-      {"user": "How do I know if a school is recognized?", "bot": "Check for registration with the School Education Department."},
-      {"user": "ఒక పాఠశాల గుర్తింపు పొందిందా లేదా ఎలా తెలుసుకోవాలి?", "bot": "విద్యాశాఖలో నమోదైనదా లేదా చూసి తెలుసుకోవచ్చు."}
+      {
+        "user": "How do I know if a school is recognized?",
+        "bot": "Check for registration with the School Education Department."
+      },
+      {
+        "user": "ఒక పాఠశాల గుర్తింపు పొందిందా లేదా ఎలా తెలుసుకోవాలి?",
+        "bot": "విద్యాశాఖలో నమోదైనదా లేదా చూసి తెలుసుకోవచ్చు."
+      }
     ]
   },
   {
     "id": 10,
     "language": "bilingual",
     "conversation": [
-      {"user": "Is online learning available in rural areas?", "bot": "Yes, many schools use mobile apps and TV programs."},
-      {"user": "గ్రామీణ ప్రాంతాల్లో ఆన్‌లైన్ విద్య అందుబాటులో ఉందా?", "bot": "అవును, చాలా పాఠశాలలు మొబైల్ యాప్‌లు మరియు టీవీ ప్రోగ్రామ్‌లు ఉపయోగిస్తున్నాయి."}
+      {
+        "user": "Is online learning available in rural areas?",
+        "bot": "Yes, many schools use mobile apps and TV programs."
+      },
+      {
+        "user": "గ్రామీణ ప్రాంతాల్లో ఆన్‌లైన్ విద్య అందుబాటులో ఉందా?",
+        "bot": "అవును, చాలా పాఠశాలలు మొబైల్ యాప్‌లు మరియు టీవీ ప్రోగ్రామ్‌లు ఉపయోగిస్తున్నాయి."
+      }
     ]
   }
 ]
