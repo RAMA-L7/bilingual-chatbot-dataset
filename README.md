@@ -3,7 +3,7 @@
 A handcrafted dataset of realistic chatbot conversations in **Telugu and English** across multiple domains to help train, fine-tune, and evaluate multilingual AI assistants.
 
 ## 📂 Project Structure
-
+```
 bilingual-chatbot-dataset/
 ├── data/
 │   ├── education/
@@ -17,7 +17,7 @@ bilingual-chatbot-dataset/
 ├── samples/
 └── assets/
 
-
+```
 
 
 ## 🔥 Highlights
