@@ -1,0 +1,12 @@
+# Python & system files
+__pycache__/
+*.pyc
+.env
+*.log
+
+# VS Code
+.vscode/
+
+# Temporary or build files
+*.bak
+.DS_Store

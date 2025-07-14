@@ -5,23 +5,18 @@ A handcrafted dataset of realistic chatbot conversations in **Telugu and English
 ## 📂 Project Structure
 
 bilingual-chatbot-dataset/
-├── education/
-│ ├── education_01_10.json
-│ ├── education_11_20.json
-│ └── ...
-├── health/
-│ ├── health_01_10.json
-│ ├── health_11_20.json
-│ └── ...
-├── weather/
-│ ├── weather_01_10.json
-│ ├── weather_11_20.json
-│ └── ...
-├── agriculture/
-│ ├── agriculture_01_10.json
-│ ├── agriculture_11_20.json
-│ └── ...
-└── README.md
+├── data/
+│   ├── education/
+│   ├── health/
+│   ├── weather/
+│   ├── agriculture/
+│   ├── government_services/
+│   ├── transport/
+│   ├── banking/
+│   └── emergency/
+├── samples/
+└── assets/
+
 
 
 
